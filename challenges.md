@@ -29,3 +29,12 @@ Viewstate is by default tamper proof if all features are enabled and
 
 Crawl the site and find all possible combinations of form values programmatically, reach the final state of all, 
 and derive viewstate of all and store as files. Then access as and when required.
+
+[Scrapy](https://scrapy.org/) can help here. 
+[see this example](https://blog.scrapinghub.com/2016/04/20/scrapy-tips-from-the-pros-april-2016-edition/).
+It seems to fit our need. we will need to observe each viewstate, as it approaches options. Maybe we will also need to append form data at each stage to make it work correctly.
+
+References - 
+- [submit query to aspx in python](https://stackoverflow.com/questions/1480356/how-to-submit-query-to-aspx-page-in-python)
+- [Programmatically Posting Data to ASP .NET Web Applications](http://dotnet.sys-con.com/node/45127)
+- Go for [selenium](http://www.seleniumhq.org/) in python 2.x if needed. Maybe MechanicalSoup for python 3.x
