@@ -21,7 +21,23 @@ This can again be automated with same logic. Bulk fetch marks statements with fr
 	- [X] To html
 	- [X] consolidated text file
 	- [X] array for any other processing	
-- [ ] Retry failed responses ( as site crashes often ) 
+- [X] Retry failed responses ( as site crashes often ) 
 - [ ] fetch specific college : any course 
 - [ ] fetch all DU colleges  : any course
 - [ ] menu selection : course, college, individual
+
+## Dev
+
+- Make sure you have [pipenv](https://docs.pipenv.org/) installed.
+- ```console
+    git clone https://github.com/jatin69/fetcher.git
+    cd fetcher
+    pipenv shell
+    pipenv install
+    ```
+
+## Note 
+
+- The script currently has a lot of moving parts and variables.
+- A generic script with variable configurations would be more clean.
+- Contributions are welcome.

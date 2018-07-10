@@ -2,17 +2,22 @@
 Fetches students of a college based on roll no of one student.
 """
 
-CONST_college_roll_no = "17015570016"
+CONST_college_roll_no = "17015570001"
+
 
 import requests
 from bs4 import BeautifulSoup
 
-r = requests.get('http://duexam2.du.ac.in/RSLT_ND2017/Students/List_Of_Students.aspx?'
-                 'StdType=REG'
-                 '&ExamFlag=CBCS'
-                 '&CourseCode=570'
-                 '&CourseName=(CBCS)%20B.SC.(HONS.)%20COMPUTER%20SCIENCE&Part=I'
-                 '&Sem=I')
+# URL is ever changing, update with actual URL before use.
+
+URL = 'http://duexam2.du.ac.in/RSLT_ND2017/Students/List_Of_Students.aspx?'
+    'StdType=REG'
+    '&ExamFlag=CBCS'
+    '&CourseCode=570'
+    '&CourseName=(CBCS)%20B.SC.(HONS.)%20COMPUTER%20SCIENCE&Part=I'
+    '&Sem=I'
+
+r = requests.get(URL)
 
 soup = BeautifulSoup(r.text, 'html.parser')
 students_table = soup.find("table", {"rules": "all"})
@@ -27,7 +32,6 @@ for student in all_students:
 
 data[0] = ['sno','srollno','sname','sfathername']
 data.pop(0)
-
 
 roll_no_pattern = CONST_college_roll_no[:-3] + '...'
 
