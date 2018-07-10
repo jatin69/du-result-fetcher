@@ -22,19 +22,19 @@ This can again be automated with same logic. Bulk fetch marks statements with fr
 	- [X] consolidated text file
 	- [X] array for any other processing	
 - [X] Retry failed responses ( as site crashes often ) 
-- [ ] fetch specific college : any course 
-- [ ] fetch all DU colleges  : any course
-- [ ] menu selection : course, college, individual
+- [ ] any course : fetch students and marks  
+- [ ] Deployment, if any, with menu selection : course, college, individual
 
 ## Dev
 
 - Make sure you have [pipenv](https://docs.pipenv.org/) installed.
-- ```console
-    git clone https://github.com/jatin69/fetcher.git
-    cd fetcher
-    pipenv shell
-    pipenv install
-    ```
+
+```shell
+git clone https://github.com/jatin69/fetcher.git
+cd fetcher
+pipenv shell
+pipenv install
+```
 
 ## Note 
 

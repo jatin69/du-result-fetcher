@@ -89,10 +89,3 @@ ENV/
 /site
 
 # mypy
-.mypy_cache/
-
-\.idea/
-
-\.marks_statement/
-
-# html files maybe
