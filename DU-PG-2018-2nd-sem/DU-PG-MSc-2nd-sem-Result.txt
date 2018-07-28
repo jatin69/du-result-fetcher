@@ -1,0 +1,47 @@
+S.No  Roll No.   Name                  Marks Percentage
+1     1723935    SHIVANI KUMAR           449    89.8
+2     1723909    DEEPTI SHARMA           446    89.2
+3     1723932    SHIVAM AGARWAL          439    87.8
+4     1723905    ASHITA DIWAN            436    87.2
+5     1723907    AYUSH MALIK             434    86.8
+6     1723902    ABHISHEK GUPTA          430    86.0
+7     1723920    NEHAL PANDEY            430    86.0
+8     1723901    ABHILASHA GUPTA         428    85.6
+9     1723941    SURBHI MITTAL           426    85.2
+10    1723943    TARUN GARG              418    83.6
+11    1723928    SAKEENA SHAHID          414    82.8
+12    1723945    UTTEYA PRASAD PAL       414    82.8
+13    1723906    ATUL MITTAL             410    82.0
+14    1723908    BHOOMIKA PANWAR         409    81.8
+15    1723910    EVA CHAUDHARY           405    81.0
+16    1723922    NOORUL HASAN            403    80.6
+17    1723911    JAIDEEP SAGAR           402    80.4
+18    1723930    SANCHI CHAWLA           402    80.4
+19    1723918    MOHAMMAD SAYEED         401    80.2
+20    1723916    MAYANK GANGWAR          399    79.8
+21    1723925    RAJNI                   393    78.6
+22    1723919    MOHIT KANDPAL           391    78.2
+23    1723927    ROHIT VERMA             388    77.6
+24    1723938    SULEKHA                 388    77.6
+25    1723937    SUBODH KUMAR            382    76.4
+26    1723934    SHIVANI TIWARY          377    75.4
+27    1723924    PUSHKAR GOLE            376    75.2
+28    1723917    MOHAMMAD ADIB           373    74.6
+29    1723933    SHIVANI                 367    73.4
+30    1723947    YOGESH KUMAR            366    73.2
+31    1723936    SHRESHTH SAXENA         359    71.8
+32    1723912    KHUSHBOO MITTAL         358    71.6
+33    1723931    SANDHYA                 353    70.6
+34    1723904    ANCHAL MITTAL           349    69.8
+35    1723913    KRISHNA                 332    66.4
+36    1723946    VINEETA GOSWAMI         331    66.2
+37    1723929    SAKSHI MEENA            325    65.0
+38    1723940    SURBHI CHAURASIA        309    61.8
+39    1723903    AKANSHA GAUTAM          304    60.8
+40    1723915    LIMA EMAL               287    57.4
+41    1723921    NILOY BISWAS            266    53.2
+42    1723942    SWAPNIL GUPTA           264    52.8
+43    1723944    THONGMINLIEN KUKI       240    48.0
+44    1723926    RANA IBRAHIMI           209    41.8
+45    1723914    KUNDAN KUMAR              7     1.4
+46    1723923    PUNCHOK NAMGIAL           0     0.0

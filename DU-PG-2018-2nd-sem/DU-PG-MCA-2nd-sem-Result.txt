@@ -1,0 +1,47 @@
+S.No  Roll No.   Name                  Marks Percentage
+1     1724527    PRIYANKA SUKHALINI      471    94.2
+2     1724537    SUSHMITA YADAV          464    92.8
+3     1724507    AVINASH PRASAD          434    86.8
+4     1724520    MOHD SHOAIB RAYEEN      430    86.0
+5     1724501    ABHISHEK BHARDWAJ       427    85.4
+6     1724546    YASHVI VERMA            426    85.2
+7     1724526    PRAGYA RASTOGI          425    85.0
+8     1724521    MOHIT ARORA             421    84.2
+9     1724518    MANISHA PARUTHI         418    83.6
+10    1724528    RAHUL DEWAN             394    78.8
+11    1724510    DIKSHA VERMA            392    78.4
+12    1724519    MEGHNA AGARWAL          392    78.4
+13    1724514    JATIN ROHILLA           391    78.2
+14    1724504    ANJALI BANSAL           389    77.8
+15    1724536    SMRITY CHAUDHARY        388    77.6
+16    1724509    DEEPAK YADAV            379    75.8
+17    1724535    SHWETA GOEL             379    75.8
+18    1724544    VISHAD UPMANYA          376    75.2
+19    1724511    DIVYA AGARWAL           373    74.6
+20    1724543    VIPIN KUMAR             366    73.2
+21    1724547    YOGESH BHAKHAR          362    72.4
+22    1724542    VIKAS GOSWAMI           334    66.8
+23    1724517    KALPANA YADAV           330    66.0
+24    1724541    VIDUL KUMAR             327    65.4
+25    1724538    SWAPNIL                 322    64.4
+26    1724530    ROHIT NAYAK             312    62.4
+27    1724532    SEEMA KUMARI PATEL      297    59.4
+28    1724513    HARSHUL KUMAR           296    59.2
+29    1724512    HARSHIT KUMAR HALWAN    294    58.8
+30    1724505    ARSHAD ANSARI           292    58.4
+31    1724533    SHEENAM YADAV           278    55.6
+32    1724529    RISHAB BATRA            274    54.8
+33    1724539    TUSHAR                  270    54.0
+34    1724525    PRADEEP KUMAR           269    53.8
+35    1724502    AJAY KUMAR              268    53.6
+36    1724523    NIKHIL BISHT            260    52.0
+37    1724540    VASHUDEV                253    50.6
+38    1724524    NIKITA                  250    50.0
+39    1724531    SAURABH BHANDARI        247    49.4
+40    1724516    KACHUIPAM RUNGSUNG      236    47.2
+41    1724503    AKASH KULSHRESHTHA      227    45.4
+42    1724506    ASHISH SONI             221    44.2
+43    1724515    JAYANT DHAWAN           220    44.0
+44    1724534    SHEETAL KUMAR           211    42.2
+45    1724508    CHIRAG BOHET            206    41.2
+46    1724522    NAROLA D DHAR           194    38.8
