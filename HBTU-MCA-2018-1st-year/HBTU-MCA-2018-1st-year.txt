@@ -1,0 +1,59 @@
+S.No  Roll No.    Name                      Marks     GPA    
+1     170231010   Anita Hemrajani           802       8.722  
+2     170231050   SHIVAM CHAUHAN            801       8.861  
+3     170231021   KUSHAGRA VERMA            799       8.639  
+4     170231057   Upasana Pandey            778       8.361  
+5     170231005   Akansha Shukla            776       8.194  
+6     170231059   Varuna kalwani            768       8.389  
+7     170231039   Priya Pandey              759       8.306  
+8     170231034   Pooja Kumari              747       8.139  
+9     170231046   Saloni Kwatra             741       8.028  
+10    170231026   MRIDUL KUMAR SHUKLA       735       7.833  
+11    170231016   DIVYA CHAUBEY             720       7.778  
+12    170231020   KULDEEP MISHRA            702       7.694  
+13    170231032   NUPUR SINGH               700       7.694  
+14    170231001   ABHAY PANDEY              695       7.333  
+15    170231031   Nisha Kumari              695       7.528  
+16    170231029   Niharika Dubey            692       7.528  
+17    170231037   Pratishtha Sahu           691       7.583  
+18    170231048   SAURABH KUMAR SETH        690       7.611  
+19    170231042   RISHABH JAIN              688       7.444  
+20    170231012   Ankita Sharma             687       7.5    
+21    170231054   Sonam                     678       7.472  
+22    170231003   AJAY GUPTA                676       7.556  
+23    170231019   KRATI PANDEY              668       7.306  
+24    170231008   Ambika Patel              667       7.389  
+25    170231030   NIKHIL KUMAR MISHRA       667       7.194  
+26    170231025   MRIDUL KATIYAR            663       7.278  
+27    170231052   SHUBHAM MISHRA            656       7.194  
+28    170231006   AMAN CHANDRA              654       7.111  
+29    170231038   Preeti Gupta              653       7.139  
+30    170231007   AMAN MAURYA               649       7.222  
+31    170231036   PRATIBHA RAJ              649       7.111  
+32    170231049   SAURABH PATHAK            648       7.028  
+33    170231018   HARSH SAHU                642       7.111  
+34    170231045   Sadhana Bharati           637       7.083  
+35    170231058   USMAN KHAN                636       6.944  
+36    170231044   RISHI KUMAR               635       6.972  
+37    170231060   VISHAL SONKAR             633       6.917  
+38    170231053   SIMNAN KHAN               631       6.917  
+39    170231024   MOHIT GUPTA               624       6.806  
+40    170231035   PRAKHAR AGARWAL           620       6.75   
+41    170231056   SURENDRA NATH             617       6.639  
+42    170231027   NEELANSH VARSHNEY         616       6.75   
+43    170231017   DIVYANSHU VISHNOI         614       6.75   
+44    170231028   NEHA SINGH                606       6.75   
+45    170231009   ANIL KUMAR YADAV          603       6.472  
+46    170231022   MOHAMMAD YUSUPH           601       6.639  
+47    170231023   MOHD.AAMIR                600       6.611  
+48    170231011   ANKIT SINGH               592       6.472  
+49    170231047   SARVENDRA KUMAR           591       6.5    
+50    170231014   BHARAT LAL VISHWAKARAMA   588       6.472  
+51    170231033   PEEYUSH KUMAR SRIVASTAV   586       6.028  
+52    170231041   RAJAT YADAV               568       6.25   
+53    170231055   SONAM YADAV               553       5.972  
+54    170231004   AJAY KUMAR                537       5.833  
+55    170231051   SHIVAM KUMAR              529       5.806  
+56    170231013   ATUL KUMAR MISHRA         525       5.972  
+57    170231043   RISHABH RAJ SINGH         494       5.583  
+58    170231040   RAJ KUMAR PASWAN          488       5.083  
