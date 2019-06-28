@@ -1,0 +1,151 @@
+S.No  Roll No.        Name                      SGPA       College                                 
+1     16009570007     NIKITA BANSAL             9.3536     Bhaskaracharya College of Applied Sciences
+2     16078570010     DEVENDER GUPTA            9.1768     Sri Guru Gobind Singh College Of Commerce
+3     16067570025     PARAG MITTAL              9.0783     Shaheed Sukhdev College of Business Studies
+4     16067570037     SHRUTI BIHANI             9.0696     Shaheed Sukhdev College of Business Studies
+5     16025570021     ADITI MISHRA              9.0580     Hans Raj College                        
+6     16001570006     ASHWANI VARSHNEY          8.9942     Acharya Narendra Dev College            
+7     16029570042     SIMRAN KAUR               8.9536     I.P.College For Women                   
+8     16025570042     PRACHI AGGARWAL           8.9246     Hans Raj College                        
+9     16025570016     MUSKAN GOYAL              8.9072     Hans Raj College                        
+10    16025570041     RUCHIKA BHATT             8.8986     Hans Raj College                        
+11    16029570034     SAACHI                    8.8783     I.P.College For Women                   
+12    16067570011     DEVANSH SHARMA            8.8725     Shaheed Sukhdev College of Business Studies
+13    16067570038     SRISHTI JAIN              8.8667     Shaheed Sukhdev College of Business Studies
+14    16078570038     PULKIT AGGARWAL           8.8406     Sri Guru Gobind Singh College Of Commerce
+15    16001570016     MUDITA SANJIVE            8.8319     Acharya Narendra Dev College            
+16    16029570006     BHARTI DUA                8.7855     I.P.College For Women                   
+17    16025570046     YASHVI CHAWLA             8.7623     Hans Raj College                        
+18    16025570059     JASBIR                    8.7536     Hans Raj College                        
+19    16025570019     JASPREET SINGH DHANI      8.7449     Hans Raj College                        
+20    16029570012     DIVYANSHI AGARWAL         8.7304     I.P.College For Women                   
+21    16066570037     MEGHNA JUYAL              8.7217     Shaheed Rajguru College of Applied Sciences for Women
+22    16025570061     MOHD SHOAIB ASGAR         8.7101     Hans Raj College                        
+23    16035570023     DEEPAK                    8.6841     Keshav Mahavidyalaya                    
+24    16009570013     SIDDHANT VARMA            8.6725     Bhaskaracharya College of Applied Sciences
+25    16066570026     SWETA KUMARI              8.6725     Shaheed Rajguru College of Applied Sciences for Women
+26    16015570032     NEHA TOMAR                8.6522     Deen Dayal Upadhyaya College            
+27    16001570041     SUPRIYA KATYAL            8.6377     Acharya Narendra Dev College            
+28    16015570001     ABHISHEK SHARMA           8.6348     Deen Dayal Upadhyaya College            
+29    16015570008     ANKUSH KHANNA             8.6261     Deen Dayal Upadhyaya College            
+30    16009570018     SAGAR BANSAL              8.6174     Bhaskaracharya College of Applied Sciences
+31    16053570039     RAHUL AGGARWAL            8.6116     P.G.D.A.V. College (Day)                
+32    16078570012     DIPNEET KAUR              8.6116     Sri Guru Gobind Singh College Of Commerce
+33    16015570047     SAKSHI RAWAT              8.6087     Deen Dayal Upadhyaya College            
+34    16025570044     MANSHA KAUR               8.6029     Hans Raj College                        
+35    16015570043     RIYA SWAMI                8.5797     Deen Dayal Upadhyaya College            
+36    16035570013     ARSHDEEP SINGH            8.5797     Keshav Mahavidyalaya                    
+37    16066570014     NEHA KALA                 8.5623     Shaheed Rajguru College of Applied Sciences for Women
+38    16025570003     ANUSHKA SHIVANI           8.5565     Hans Raj College                        
+39    16067570020     MANSI GOEL                8.5536     Shaheed Sukhdev College of Business Studies
+40    16009570032     KANCHAN                   8.5449     Bhaskaracharya College of Applied Sciences
+41    16033570006     DEEPANSHI MAKKAR          8.5304     Kalindi College                         
+42    16053570036     PRASHANT DWIVEDI          8.5188     P.G.D.A.V. College (Day)                
+43    16029570015     HUDA                      8.5159     I.P.College For Women                   
+44    16078570013     DRISHTI MALHOTRA          8.5101     Sri Guru Gobind Singh College Of Commerce
+45    16067570007     ANURAG JOSHI              8.5014     Shaheed Sukhdev College of Business Studies
+46    16066570040     YASHIKA GOLA              8.4957     Shaheed Rajguru College of Applied Sciences for Women
+47    16001570019     NEELENDRA PRATAP SINGH YADAV 8.4696     Acharya Narendra Dev College            
+48    16066570002     DEEKSHA JOSHI             8.4638     Shaheed Rajguru College of Applied Sciences for Women
+49    16029570018     KHUSBOO YADAV             8.4580     I.P.College For Women                   
+50    16035570054     NIRNAY MITTAL             8.4493     Keshav Mahavidyalaya                    
+51    16013570045     SANYAM JAIN               8.4319     College Of Vocational Studies           
+52    16015570011     AYUSH KUMAR SINHA         8.4319     Deen Dayal Upadhyaya College            
+53    16067570044     BHAVYA SHARMA             8.4261     Shaheed Sukhdev College of Business Studies
+54    16067570018     KAJAL GUPTA               8.4232     Shaheed Sukhdev College of Business Studies
+55    16033570011     SHALINI KUMAR             8.4203     Kalindi College                         
+56    16013570035     PRARTHNA BISHT            8.3710     College Of Vocational Studies           
+57    16001570014     MAYANK TOMAR              8.3681     Acharya Narendra Dev College            
+58    16059570004     DEEPAK TRIPATHI           8.3681     Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+59    16066570016     PAYAL BUDHIRAJA           8.3565     Shaheed Rajguru College of Applied Sciences for Women
+60    16058570018     SALONI DOBHAL             8.3507     Ram Lal Anand College (Day)             
+61    16001570018     NAUREEN FATIMA            8.3478     Acharya Narendra Dev College            
+62    16013570053     SUNIDHI JAIN              8.3449     College Of Vocational Studies           
+63    16067570039     TANMAY SHARMA             8.3275     Shaheed Sukhdev College of Business Studies
+64    16035570026     DIVYA SINGH               8.3043     Keshav Mahavidyalaya                    
+65    16066570003     DIVYANSHI GUPTA           8.3014     Shaheed Rajguru College of Applied Sciences for Women
+66    16025570011     SHIVIKA AGARWAL           8.2957     Hans Raj College                        
+67    16058570036     VANI GUPTA                8.2957     Ram Lal Anand College (Day)             
+68    16001570012     HIMANSHU CHAUDHARY        8.2841     Acharya Narendra Dev College            
+69    16058570026     DEVANSHU                  8.2725     Ram Lal Anand College (Day)             
+70    16067570035     SHAURYA SINGHAL           8.2667     Shaheed Sukhdev College of Business Studies
+71    16035570024     DEEPANSHU KHATRI          8.2551     Keshav Mahavidyalaya                    
+72    16009570011     RIYA SUNTWAL              8.2493     Bhaskaracharya College of Applied Sciences
+73    16035570010     ANKUR TYAGI               8.2493     Keshav Mahavidyalaya                    
+74    16029570005     ARPITA SAGGAR             8.2406     I.P.College For Women                   
+75    16066570022     RIYA AWASTHI              8.2348     Shaheed Rajguru College of Applied Sciences for Women
+76    16029570011     DILPREET KAUR             8.2290     I.P.College For Women                   
+77    16029570008     DEEKSHA AGRAWAL           8.2232     I.P.College For Women                   
+78    16003570003     YUKTI AGARWAL             8.2174     Atma Ram Sanatan Dharam College         
+79    16035570069     RISHABH JAIN              8.2174     Keshav Mahavidyalaya                    
+80    16067570042     VARSHA AGGARWAL           8.2087     Shaheed Sukhdev College of Business Studies
+81    16029570007     CHARVI VATS               8.2000     I.P.College For Women                   
+82    16035570048     MUSKAN AGGARWAL           8.1913     Keshav Mahavidyalaya                    
+83    16078570046     SAGAR MONGA               8.1913     Sri Guru Gobind Singh College Of Commerce
+84    16075570016     DIKSHA GUPTA              8.1826     Shyama Prasad Mukherji College for Women
+85    16001570020     NEERAJ PAL                8.1594     Acharya Narendra Dev College            
+86    16035570018     BHARTI                    8.1594     Keshav Mahavidyalaya                    
+87    16035570041     MEGHA NAITHANI            8.1594     Keshav Mahavidyalaya                    
+88    16003570012     ADITI SHARMA              8.1536     Atma Ram Sanatan Dharam College         
+89    16075570043     NIKITA KAPOOR             8.1507     Shyama Prasad Mukherji College for Women
+90    16003570019     RISHABH GUPTA             8.1449     Atma Ram Sanatan Dharam College         
+91    16033570015     ANJALI PANDEY             8.1304     Kalindi College                         
+92    16035570029     HIKANSH KAPOOR            8.1275     Keshav Mahavidyalaya                    
+93    16029570036     SAKSHI GOENKA             8.1188     I.P.College For Women                   
+94    16009570031     ANKITA YADAV              8.1159     Bhaskaracharya College of Applied Sciences
+95    16078570005     ARJUN VEER SINGH          8.1014     Sri Guru Gobind Singh College Of Commerce
+96    16029570045     SRISHTI  ARORA            8.0986     I.P.College For Women                   
+97    16059570031     ISHANT MALIK              8.0986     Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+98    16015570026     MANISHA SINGH             8.0957     Deen Dayal Upadhyaya College            
+99    16075570030     MAHIMA MALIK              8.0841     Shyama Prasad Mukherji College for Women
+100   16059570017     YASH SHARMA               8.0696     Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+101   16035570020     CHINMAY JAIN              8.0638     Keshav Mahavidyalaya                    
+102   16075570064     SHUBHAM SRIVASTAVA        8.0609     Shyama Prasad Mukherji College for Women
+103   16033570008     AARTI AGGARWAL            8.0580     Kalindi College                         
+104   16013570057     VAISHALI NARULA           8.0551     College Of Vocational Studies           
+105   16003570018     RAJAT BHANDARI            8.0464     Atma Ram Sanatan Dharam College         
+106   16035570040     MANVI AGHI                8.0377     Keshav Mahavidyalaya                    
+107   16035570037     KESHAV SINGH              8.0348     Keshav Mahavidyalaya                    
+108   16029570035     SAAKSHI SINGH             8.0261     I.P.College For Women                   
+109   16033570030     AARUSHI                   8.0261     Kalindi College                         
+110   16029570010     DEVANSHI MATHUR           8.0232     I.P.College For Women                   
+111   16029570019     LAXITA JAIN               8.0232     I.P.College For Women                   
+112   16078570042     RASHMIN KAUR              8.0203     Sri Guru Gobind Singh College Of Commerce
+113   16020570021     NITESH YADAV              8.0029     Ramanujan College                       
+114   16029570028     PRIYANKA                  8.0000     I.P.College For Women                   
+115   16053570001     ABHINAV RASTOGI           7.9942     P.G.D.A.V. College (Day)                
+116   16015570018     HARSH RAI                 7.9913     Deen Dayal Upadhyaya College            
+117   16009570020     AMAN SHARMA               7.9855     Bhaskaracharya College of Applied Sciences
+118   16015570015     DIVYANSHU TYAGI           7.9826     Deen Dayal Upadhyaya College            
+119   16035570022     CHIRAG MITTAL             7.9652     Keshav Mahavidyalaya                    
+120   16013570018     HIMANSHU SHARMA           7.9623     College Of Vocational Studies           
+121   16013570025     NAMAN                     7.9594     College Of Vocational Studies           
+122   16035570064     RAHUL BISHT               7.9536     Keshav Mahavidyalaya                    
+123   16015570038     PRIYANKA SHARMA           7.9449     Deen Dayal Upadhyaya College            
+124   16078570022     KANISHKA MITTAL           7.9391     Sri Guru Gobind Singh College Of Commerce
+125   16001570036     SHUBHAM GUPTA             7.9362     Acharya Narendra Dev College            
+126   16066570039     RITIKA BANSAL             7.9333     Shaheed Rajguru College of Applied Sciences for Women
+127   16075570001     AARTI KUMARI              7.9275     Shyama Prasad Mukherji College for Women
+128   16003570023     ANKITA KUMARI             7.9217     Atma Ram Sanatan Dharam College         
+129   16075570027     KHUSHBOO GOEL             7.9188     Shyama Prasad Mukherji College for Women
+130   16033570016     PRIYANKA JASWAL           7.9159     Kalindi College                         
+131   16075570054     RUCHIKA GOEL              7.9159     Shyama Prasad Mukherji College for Women
+132   16029570016     KAJAL                     7.9130     I.P.College For Women                   
+133   16078570016     GURSIMRAN SINGH           7.9101     Sri Guru Gobind Singh College Of Commerce
+134   16059570010     MANOJ KUMAR               7.9072     Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+135   16066570018     PRIYA KESHARVANI          7.9014     Shaheed Rajguru College of Applied Sciences for Women
+136   16035570003     AASHISH                   7.8841     Keshav Mahavidyalaya                    
+137   16029570046     VIDUSHI CHAURISHI         7.8812     I.P.College For Women                   
+138   16059570013     SAHIL PRAJAPATI           7.8725     Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+139   16058570012     PRADEEP RAI               7.8696     Ram Lal Anand College (Day)             
+140   16053570014     GAUTAM                    7.8638     P.G.D.A.V. College (Day)                
+141   16066570027     SWETA KUMARI              7.8580     Shaheed Rajguru College of Applied Sciences for Women
+142   16066570005     HINA GUPTA                7.8493     Shaheed Rajguru College of Applied Sciences for Women
+143   16058570001     SHUBHAM JHA               7.8435     Ram Lal Anand College (Day)             
+144   16066570013     SUSHMITA BARAL            7.8406     Shaheed Rajguru College of Applied Sciences for Women
+145   16029570031     RASHIKA BAGRI             7.8377     I.P.College For Women                   
+146   16001570013     KASHI NARANG              7.8203     Acharya Narendra Dev College            
+147   16013570027     NIDHI VERMA               7.8087     College Of Vocational Studies           
+148   16058570013     ABHISHEK MEHANDIRATTA     7.8029     Ram Lal Anand College (Day)             
+149   16078570031     MUSKAN KAUR SETHI         7.8029     Sri Guru Gobind Singh College Of Commerce
+150   16029570024     PRAGYA ALAGH              7.7971     I.P.College For Women                   

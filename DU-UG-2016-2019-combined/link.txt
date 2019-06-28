@@ -1,0 +1,14 @@
+URL is 
+
+http://http://duresult.in/Students/OLD_Sys1_GradeCardReport_Sem_New.aspx
+
+ExampType=Semester
+CollegeCode=053
+CourseCode=570
+Sem=VI
+Rollno=16053570001
+
+
+URL is 
+
+http://duresult.in/Students/OLD_Sys1_GradeCardReport_Sem_New.aspx?ExamType=Semester&CollegeCode=053&CourseCode=570&Sem=VI&Rollno=16053570001
