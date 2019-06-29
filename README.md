@@ -1,43 +1,56 @@
-# Fetcher 
+# DU Result Fetcher 
 
-Automated fetching and analysis of exam results for Delhi University. 
+Bulk fetching marks statements for Delhi University Students and more. 🚀
 
 ## Motivation
 
 **Individual Results**
-At the time of announcement of exam results, [DU exam result portal](http://duexam2.du.ac.in/RSLT_ND2017/Students/Home.aspx) often crashes due to the load. As a consequence, it takes too much time for a student to get his own result, the response just keeps crashing again and again, and re filling of the time is a time consuming process. So why not automate the process ? Let's fetch our results with freedom. :star:
+
+At the time of announcement of exam results, ~~[DU exam result portal](http://duexam2.du.ac.in/RSLT_ND2017/Students/Home.aspx)~~ [New DU Result Portal](http://duresult.in/students/Combine_GradeCard.aspx) often crashes due to the load. As a consequence, it takes too much time for a student to get his result, the response tab just keeps crashing again and again, and re filling of the time is a time consuming process. So why not automate the process ? Let's fetch our results with freedom. :star:
 
 **Bulk fetch**
+
 Final year students are often concerned about where they stand in the university rank. 
-Manually downloading the result of 1000 students and then comparing them is not feasible.
-This can again be automated with same logic. Bulk fetch marks statements with freedom and get comparisons and rankings with scripts. :fire:
+Manually downloading the result of 800 students and then comparing them is not feasible.
+This can again be automated with same logic. Bulk fetching marks statements and getting rankings with scripts. :fire:
 
-## Todo
+**Update :** 
 
-- [X] proof of concept
-- [X] fetch specific college : computer science 
-- [X] fetch all DU colleges  : computer science
-- [X] Results saved
-	- [X] To html
-	- [X] consolidated text file
-	- [X] array for any other processing	
-- [X] Retry failed responses ( as site crashes often ) 
-- [ ] any course : fetch students and marks  
-- [ ] Deployment, if any, with menu selection : course, college, individual
+It's been almost 2 years i've been doing this. During this time, the du result portal has changed its structure twice. The recent release is up to date with the current portal.
+
+The project turned out to be even more useful than i initially thought. The project has served several purposes.
+
+- getting marks statements  
+  + for a single student
+  + for all students of a course of a college
+  + for all students of a course of DU
+  + for PG courses
+- getting rankings
+  + for a college
+  + for PG courses merit list ( based on rankings of all DU results)
+- keeping long term records
+- tracking the history of changes in the portal structure
+- teaching that no system is scrap proof. You just have to try harder.
+
+## Features (v2.0)
+
+- Bypasses captcha to get results
+- sorts them and puts them in txt, csv formats
+- downloads entire html result pages (kept on local system only for privacy reasons)
+- The new release is based on rollnumbers, so it'll work for any course.
 
 ## Dev
 
-- Make sure you have [pipenv](https://docs.pipenv.org/) installed.
+- clone the repo
+- Make sure you have python, pip and [pipenv](https://docs.pipenv.org/) installed.
+- start a virtual env with `pipenv shell`
+- install dependencies `pipenv install`
 
-```shell
-git clone https://github.com/jatin69/fetcher.git
-cd fetcher
-pipenv shell
-pipenv install
-```
+## How does this work? Did you hack anything?
 
-## Note 
+No. I just used what was publically available, and came out with a logic based on simple observations. I do not have any inside access. It's straight through the web portal.
 
-- The script currently has a lot of moving parts and variables.
-- A generic script with variable configurations would be more clean.
-- Contributions are welcome.
+## Disclaimer
+
+- This is only for educational purposes.
+- If you use it with malicious intent, you and only you are responsible for the consequences.

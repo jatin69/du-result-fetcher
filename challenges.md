@@ -1,3 +1,5 @@
+This was valid for old result portal. However, some of these still apply. 
+
 # Challenges
 
 - [x] Retriving sent POST values

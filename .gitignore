@@ -90,5 +90,3 @@ ENV/
 
 # mypy
 *.html
-
-\.vscode/
