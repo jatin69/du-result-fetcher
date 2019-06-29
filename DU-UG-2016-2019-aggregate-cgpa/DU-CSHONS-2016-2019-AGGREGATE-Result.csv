@@ -1,0 +1,708 @@
+S.No  ,Roll No.        ,Name                      ,CGPA       ,College                                 
+1     ,16009570007     ,NIKITA BANSAL             ,9.689      ,Bhaskaracharya College of Applied Sciences
+2     ,16025570021     ,ADITI MISHRA              ,9.649      ,Hans Raj College                        
+3     ,16078570010     ,DEVENDER GUPTA            ,9.635      ,Sri Guru Gobind Singh College Of Commerce
+4     ,16029570042     ,SIMRAN KAUR               ,9.527      ,I.P.College For Women                   
+5     ,16001570006     ,ASHWANI VARSHNEY          ,9.5        ,Acharya Narendra Dev College            
+6     ,16025570041     ,RUCHIKA BHATT             ,9.473      ,Hans Raj College                        
+7     ,16029570034     ,SAACHI                    ,9.473      ,I.P.College For Women                   
+8     ,16025570042     ,PRACHI AGGARWAL           ,9.459      ,Hans Raj College                        
+9     ,16029570006     ,BHARTI DUA                ,9.446      ,I.P.College For Women                   
+10    ,16025570016     ,MUSKAN GOYAL              ,9.432      ,Hans Raj College                        
+11    ,16067570025     ,PARAG MITTAL              ,9.432      ,Shaheed Sukhdev College of Business Studies
+12    ,16078570038     ,PULKIT AGGARWAL           ,9.392      ,Sri Guru Gobind Singh College Of Commerce
+13    ,16025570019     ,JASPREET SINGH DHANI      ,9.378      ,Hans Raj College                        
+14    ,16025570046     ,YASHVI CHAWLA             ,9.365      ,Hans Raj College                        
+15    ,16067570037     ,SHRUTI BIHANI             ,9.338      ,Shaheed Sukhdev College of Business Studies
+16    ,16029570012     ,DIVYANSHI AGARWAL         ,9.324      ,I.P.College For Women                   
+17    ,16001570016     ,MUDITA SANJIVE            ,9.297      ,Acharya Narendra Dev College            
+18    ,16015570032     ,NEHA TOMAR                ,9.297      ,Deen Dayal Upadhyaya College            
+19    ,16025570059     ,JASBIR                    ,9.284      ,Hans Raj College                        
+20    ,16066570037     ,MEGHNA JUYAL              ,9.27       ,Shaheed Rajguru College of Applied Sciences for Women
+21    ,16015570001     ,ABHISHEK SHARMA           ,9.243      ,Deen Dayal Upadhyaya College            
+22    ,16025570061     ,MOHD SHOAIB ASGAR         ,9.23       ,Hans Raj College                        
+23    ,16067570038     ,SRISHTI JAIN              ,9.203      ,Shaheed Sukhdev College of Business Studies
+24    ,16001570041     ,SUPRIYA KATYAL            ,9.176      ,Acharya Narendra Dev College            
+25    ,16015570008     ,ANKUSH KHANNA             ,9.176      ,Deen Dayal Upadhyaya College            
+26    ,16067570011     ,DEVANSH SHARMA            ,9.176      ,Shaheed Sukhdev College of Business Studies
+27    ,16078570012     ,DIPNEET KAUR              ,9.176      ,Sri Guru Gobind Singh College Of Commerce
+28    ,16025570044     ,MANSHA KAUR               ,9.135      ,Hans Raj College                        
+29    ,16015570043     ,RIYA SWAMI                ,9.122      ,Deen Dayal Upadhyaya College            
+30    ,16029570015     ,HUDA                      ,9.122      ,I.P.College For Women                   
+31    ,16035570013     ,ARSHDEEP SINGH            ,9.122      ,Keshav Mahavidyalaya                    
+32    ,16015570047     ,SAKSHI RAWAT              ,9.108      ,Deen Dayal Upadhyaya College            
+33    ,16025570003     ,ANUSHKA SHIVANI           ,9.108      ,Hans Raj College                        
+34    ,16066570026     ,SWETA KUMARI              ,9.108      ,Shaheed Rajguru College of Applied Sciences for Women
+35    ,16029570018     ,KHUSBOO YADAV             ,9.095      ,I.P.College For Women                   
+36    ,16066570014     ,NEHA KALA                 ,9.081      ,Shaheed Rajguru College of Applied Sciences for Women
+37    ,16009570032     ,KANCHAN                   ,9.068      ,Bhaskaracharya College of Applied Sciences
+38    ,16013570045     ,SANYAM JAIN               ,9.068      ,College Of Vocational Studies           
+39    ,16053570039     ,RAHUL AGGARWAL            ,9.068      ,P.G.D.A.V. College (Day)                
+40    ,16001570019     ,NEELENDRA PRATAP SINGH YADAV ,9.041      ,Acharya Narendra Dev College            
+41    ,16009570013     ,SIDDHANT VARMA            ,9.041      ,Bhaskaracharya College of Applied Sciences
+42    ,16035570023     ,DEEPAK                    ,9.041      ,Keshav Mahavidyalaya                    
+43    ,16066570040     ,YASHIKA GOLA              ,9.041      ,Shaheed Rajguru College of Applied Sciences for Women
+44    ,16078570013     ,DRISHTI MALHOTRA          ,9.027      ,Sri Guru Gobind Singh College Of Commerce
+45    ,16029570008     ,DEEKSHA AGRAWAL           ,9.0        ,I.P.College For Women                   
+46    ,16033570006     ,DEEPANSHI MAKKAR          ,8.986      ,Kalindi College                         
+47    ,16015570011     ,AYUSH KUMAR SINHA         ,8.959      ,Deen Dayal Upadhyaya College            
+48    ,16059570004     ,DEEPAK TRIPATHI           ,8.959      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+49    ,16067570020     ,MANSI GOEL                ,8.946      ,Shaheed Sukhdev College of Business Studies
+50    ,16009570018     ,SAGAR BANSAL              ,8.932      ,Bhaskaracharya College of Applied Sciences
+51    ,16013570035     ,PRARTHNA BISHT            ,8.919      ,College Of Vocational Studies           
+52    ,16033570011     ,SHALINI KUMAR             ,8.919      ,Kalindi College                         
+53    ,16066570002     ,DEEKSHA JOSHI             ,8.919      ,Shaheed Rajguru College of Applied Sciences for Women
+54    ,16029570005     ,ARPITA SAGGAR             ,8.892      ,I.P.College For Women                   
+55    ,16035570024     ,DEEPANSHU KHATRI          ,8.892      ,Keshav Mahavidyalaya                    
+56    ,16066570003     ,DIVYANSHI GUPTA           ,8.878      ,Shaheed Rajguru College of Applied Sciences for Women
+57    ,16035570026     ,DIVYA SINGH               ,8.865      ,Keshav Mahavidyalaya                    
+58    ,16066570016     ,PAYAL BUDHIRAJA           ,8.865      ,Shaheed Rajguru College of Applied Sciences for Women
+59    ,16013570053     ,SUNIDHI JAIN              ,8.851      ,College Of Vocational Studies           
+60    ,16025570011     ,SHIVIKA AGARWAL           ,8.851      ,Hans Raj College                        
+61    ,16035570048     ,MUSKAN AGGARWAL           ,8.851      ,Keshav Mahavidyalaya                    
+62    ,16035570069     ,RISHABH JAIN              ,8.851      ,Keshav Mahavidyalaya                    
+63    ,16001570018     ,NAUREEN FATIMA            ,8.838      ,Acharya Narendra Dev College            
+64    ,16058570018     ,SALONI DOBHAL             ,8.838      ,Ram Lal Anand College (Day)             
+65    ,16029570007     ,CHARVI VATS               ,8.824      ,I.P.College For Women                   
+66    ,16001570014     ,MAYANK TOMAR              ,8.797      ,Acharya Narendra Dev College            
+67    ,16029570036     ,SAKSHI GOENKA             ,8.784      ,I.P.College For Women                   
+68    ,16035570041     ,MEGHA NAITHANI            ,8.784      ,Keshav Mahavidyalaya                    
+69    ,16078570046     ,SAGAR MONGA               ,8.784      ,Sri Guru Gobind Singh College Of Commerce
+70    ,16058570026     ,DEVANSHU                  ,8.77       ,Ram Lal Anand College (Day)             
+71    ,16029570045     ,SRISHTI  ARORA            ,8.757      ,I.P.College For Women                   
+72    ,16067570007     ,ANURAG JOSHI              ,8.757      ,Shaheed Sukhdev College of Business Studies
+73    ,16009570011     ,RIYA SUNTWAL              ,8.743      ,Bhaskaracharya College of Applied Sciences
+74    ,16001570012     ,HIMANSHU CHAUDHARY        ,8.73       ,Acharya Narendra Dev College            
+75    ,16001570020     ,NEERAJ PAL                ,8.73       ,Acharya Narendra Dev College            
+76    ,16029570011     ,DILPREET KAUR             ,8.73       ,I.P.College For Women                   
+77    ,16058570036     ,VANI GUPTA                ,8.73       ,Ram Lal Anand College (Day)             
+78    ,16075570016     ,DIKSHA GUPTA              ,8.73       ,Shyama Prasad Mukherji College for Women
+79    ,16035570010     ,ANKUR TYAGI               ,8.716      ,Keshav Mahavidyalaya                    
+80    ,16035570018     ,BHARTI                    ,8.716      ,Keshav Mahavidyalaya                    
+81    ,16059570031     ,ISHANT MALIK              ,8.716      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+82    ,16066570022     ,RIYA AWASTHI              ,8.703      ,Shaheed Rajguru College of Applied Sciences for Women
+83    ,16067570018     ,KAJAL GUPTA               ,8.703      ,Shaheed Sukhdev College of Business Studies
+84    ,16059570017     ,YASH SHARMA               ,8.676      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+85    ,16067570044     ,BHAVYA SHARMA             ,8.676      ,Shaheed Sukhdev College of Business Studies
+86    ,16075570043     ,NIKITA KAPOOR             ,8.676      ,Shyama Prasad Mukherji College for Women
+87    ,16078570005     ,ARJUN VEER SINGH          ,8.676      ,Sri Guru Gobind Singh College Of Commerce
+88    ,16009570031     ,ANKITA YADAV              ,8.662      ,Bhaskaracharya College of Applied Sciences
+89    ,16067570039     ,TANMAY SHARMA             ,8.662      ,Shaheed Sukhdev College of Business Studies
+90    ,16029570016     ,KAJAL                     ,8.635      ,I.P.College For Women                   
+91    ,16035570020     ,CHINMAY JAIN              ,8.635      ,Keshav Mahavidyalaya                    
+92    ,16003570019     ,RISHABH GUPTA             ,8.622      ,Atma Ram Sanatan Dharam College         
+93    ,16033570015     ,ANJALI PANDEY             ,8.622      ,Kalindi College                         
+94    ,16035570029     ,HIKANSH KAPOOR            ,8.622      ,Keshav Mahavidyalaya                    
+95    ,16035570037     ,KESHAV SINGH              ,8.622      ,Keshav Mahavidyalaya                    
+96    ,16067570042     ,VARSHA AGGARWAL           ,8.622      ,Shaheed Sukhdev College of Business Studies
+97    ,16078570042     ,RASHMIN KAUR              ,8.622      ,Sri Guru Gobind Singh College Of Commerce
+98    ,16003570012     ,ADITI SHARMA              ,8.608      ,Atma Ram Sanatan Dharam College         
+99    ,16013570057     ,VAISHALI NARULA           ,8.608      ,College Of Vocational Studies           
+100   ,16015570026     ,MANISHA SINGH             ,8.608      ,Deen Dayal Upadhyaya College            
+101   ,16029570010     ,DEVANSHI MATHUR           ,8.608      ,I.P.College For Women                   
+102   ,16033570008     ,AARTI AGGARWAL            ,8.608      ,Kalindi College                         
+103   ,16075570064     ,SHUBHAM SRIVASTAVA        ,8.608      ,Shyama Prasad Mukherji College for Women
+104   ,16029570019     ,LAXITA JAIN               ,8.595      ,I.P.College For Women                   
+105   ,16029570028     ,PRIYANKA                  ,8.595      ,I.P.College For Women                   
+106   ,16029570035     ,SAAKSHI SINGH             ,8.595      ,I.P.College For Women                   
+107   ,16035570054     ,NIRNAY MITTAL             ,8.595      ,Keshav Mahavidyalaya                    
+108   ,16059570013     ,SAHIL PRAJAPATI           ,8.595      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+109   ,16035570040     ,MANVI AGHI                ,8.581      ,Keshav Mahavidyalaya                    
+110   ,16013570018     ,HIMANSHU SHARMA           ,8.568      ,College Of Vocational Studies           
+111   ,16075570030     ,MAHIMA MALIK              ,8.568      ,Shyama Prasad Mukherji College for Women
+112   ,16009570020     ,AMAN SHARMA               ,8.554      ,Bhaskaracharya College of Applied Sciences
+113   ,16020570021     ,NITESH YADAV              ,8.554      ,Ramanujan College                       
+114   ,16066570039     ,RITIKA BANSAL             ,8.554      ,Shaheed Rajguru College of Applied Sciences for Women
+115   ,16067570035     ,SHAURYA SINGHAL           ,8.554      ,Shaheed Sukhdev College of Business Studies
+116   ,16015570015     ,DIVYANSHU TYAGI           ,8.541      ,Deen Dayal Upadhyaya College            
+117   ,16029570046     ,VIDUSHI CHAURISHI         ,8.541      ,I.P.College For Women                   
+118   ,16003570003     ,YUKTI AGARWAL             ,8.527      ,Atma Ram Sanatan Dharam College         
+119   ,16013570025     ,NAMAN                     ,8.527      ,College Of Vocational Studies           
+120   ,16053570036     ,PRASHANT DWIVEDI          ,8.527      ,P.G.D.A.V. College (Day)                
+121   ,16059570010     ,MANOJ KUMAR               ,8.527      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+122   ,16029570031     ,RASHIKA BAGRI             ,8.514      ,I.P.College For Women                   
+123   ,16053570001     ,ABHINAV RASTOGI           ,8.5        ,P.G.D.A.V. College (Day)                
+124   ,16066570018     ,PRIYA KESHARVANI          ,8.486      ,Shaheed Rajguru College of Applied Sciences for Women
+125   ,16033570016     ,PRIYANKA JASWAL           ,8.473      ,Kalindi College                         
+126   ,16078570016     ,GURSIMRAN SINGH           ,8.473      ,Sri Guru Gobind Singh College Of Commerce
+127   ,16035570035     ,KANHAV GUPTA              ,8.459      ,Keshav Mahavidyalaya                    
+128   ,16066570027     ,SWETA KUMARI              ,8.459      ,Shaheed Rajguru College of Applied Sciences for Women
+129   ,16029570024     ,PRAGYA ALAGH              ,8.446      ,I.P.College For Women                   
+130   ,16053570014     ,GAUTAM                    ,8.446      ,P.G.D.A.V. College (Day)                
+131   ,16015570038     ,PRIYANKA SHARMA           ,8.432      ,Deen Dayal Upadhyaya College            
+132   ,16059570002     ,SHIVAM CHOUDHARY          ,8.432      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+133   ,16075570054     ,RUCHIKA GOEL              ,8.432      ,Shyama Prasad Mukherji College for Women
+134   ,16001570036     ,SHUBHAM GUPTA             ,8.419      ,Acharya Narendra Dev College            
+135   ,16035570022     ,CHIRAG MITTAL             ,8.419      ,Keshav Mahavidyalaya                    
+136   ,16078570031     ,MUSKAN KAUR SETHI         ,8.419      ,Sri Guru Gobind Singh College Of Commerce
+137   ,16015570018     ,HARSH RAI                 ,8.405      ,Deen Dayal Upadhyaya College            
+138   ,16058570001     ,SHUBHAM JHA               ,8.405      ,Ram Lal Anand College (Day)             
+139   ,16075570001     ,AARTI KUMARI              ,8.405      ,Shyama Prasad Mukherji College for Women
+140   ,16075570027     ,KHUSHBOO GOEL             ,8.405      ,Shyama Prasad Mukherji College for Women
+141   ,16078570022     ,KANISHKA MITTAL           ,8.405      ,Sri Guru Gobind Singh College Of Commerce
+142   ,16029570047     ,VISHAKHA GOYAL            ,8.392      ,I.P.College For Women                   
+143   ,16075570044     ,PARUL AILAWADI            ,8.392      ,Shyama Prasad Mukherji College for Women
+144   ,16003570018     ,RAJAT BHANDARI            ,8.378      ,Atma Ram Sanatan Dharam College         
+145   ,16035570064     ,RAHUL BISHT               ,8.365      ,Keshav Mahavidyalaya                    
+146   ,16013570027     ,NIDHI VERMA               ,8.351      ,College Of Vocational Studies           
+147   ,16001570013     ,KASHI NARANG              ,8.338      ,Acharya Narendra Dev College            
+148   ,16033570024     ,RADHIKA JINDAL            ,8.338      ,Kalindi College                         
+149   ,16075570053     ,RIYA                      ,8.338      ,Shyama Prasad Mukherji College for Women
+150   ,16003570023     ,ANKITA KUMARI             ,8.324      ,Atma Ram Sanatan Dharam College         
+151   ,16025570026     ,RIMA DATTA                ,8.311      ,Hans Raj College                        
+152   ,16025570032     ,RAHUL TANDON              ,8.311      ,Hans Raj College                        
+153   ,16078570052     ,SHIVAM DWIVEDI            ,8.297      ,Sri Guru Gobind Singh College Of Commerce
+154   ,16058570022     ,SAHIL                     ,8.284      ,Ram Lal Anand College (Day)             
+155   ,16066570005     ,HINA GUPTA                ,8.284      ,Shaheed Rajguru College of Applied Sciences for Women
+156   ,16078570053     ,SHREYA SHARMA             ,8.284      ,Sri Guru Gobind Singh College Of Commerce
+157   ,16035570012     ,ANUSHKA SHARMA            ,8.27       ,Keshav Mahavidyalaya                    
+158   ,16035570060     ,PRIYA AGGARWAL            ,8.27       ,Keshav Mahavidyalaya                    
+159   ,16035570065     ,RAHUL GUPTA               ,8.27       ,Keshav Mahavidyalaya                    
+160   ,16066570013     ,SUSHMITA BARAL            ,8.27       ,Shaheed Rajguru College of Applied Sciences for Women
+161   ,16058570012     ,PRADEEP RAI               ,8.257      ,Ram Lal Anand College (Day)             
+162   ,16058570013     ,ABHISHEK MEHANDIRATTA     ,8.257      ,Ram Lal Anand College (Day)             
+163   ,16059570001     ,NAMAN JAIN                ,8.257      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+164   ,16078570026     ,KIRTIKA MALHOTRA          ,8.257      ,Sri Guru Gobind Singh College Of Commerce
+165   ,16003570001     ,KAUVERI RAWAT             ,8.243      ,Atma Ram Sanatan Dharam College         
+166   ,16003570017     ,ANKIT                     ,8.243      ,Atma Ram Sanatan Dharam College         
+167   ,16053570047     ,SHIVAM SHUKLA             ,8.243      ,P.G.D.A.V. College (Day)                
+168   ,16003570024     ,AKSHAT AGARWAL            ,8.23       ,Atma Ram Sanatan Dharam College         
+169   ,16033570030     ,AARUSHI                   ,8.23       ,Kalindi College                         
+170   ,16066570038     ,MANSI SAXENA              ,8.23       ,Shaheed Rajguru College of Applied Sciences for Women
+171   ,16078570027     ,KRITIKA TANEJA            ,8.23       ,Sri Guru Gobind Singh College Of Commerce
+172   ,16033570044     ,VANSHITA JAIN             ,8.216      ,Kalindi College                         
+173   ,16013570017     ,HARSIMRAN KAUR BINDRA     ,8.203      ,College Of Vocational Studies           
+174   ,16025570015     ,SHIVANI KAPARWAN          ,8.203      ,Hans Raj College                        
+175   ,16029570017     ,KAMALPREET KAUR           ,8.203      ,I.P.College For Women                   
+176   ,16033570022     ,CHINAB BUDHIRAJA          ,8.203      ,Kalindi College                         
+177   ,16029570001     ,AAYUSHI RAWAT             ,8.189      ,I.P.College For Women                   
+178   ,16053570053     ,YASH CHAUDHARY            ,8.189      ,P.G.D.A.V. College (Day)                
+179   ,16075570062     ,SHIVANI MISHRA            ,8.189      ,Shyama Prasad Mukherji College for Women
+180   ,16078570057     ,TARANPREET KAUR           ,8.189      ,Sri Guru Gobind Singh College Of Commerce
+181   ,16035570047     ,MOHIT UNIYAL              ,8.176      ,Keshav Mahavidyalaya                    
+182   ,16025570029     ,SANYAM JAIN               ,8.162      ,Hans Raj College                        
+183   ,16075570010     ,ARTI                      ,8.162      ,Shyama Prasad Mukherji College for Women
+184   ,16078570015     ,GURLEEN KAUR KALRA        ,8.162      ,Sri Guru Gobind Singh College Of Commerce
+185   ,16035570001     ,AANANDITA                 ,8.149      ,Keshav Mahavidyalaya                    
+186   ,16020570015     ,MAYANK KAUSHIK            ,8.135      ,Ramanujan College                       
+187   ,16075570041     ,NEERAJ KUMARI             ,8.135      ,Shyama Prasad Mukherji College for Women
+188   ,16078570036     ,POOJA SIKKA               ,8.135      ,Sri Guru Gobind Singh College Of Commerce
+189   ,16029570027     ,PRIYAM YADAV              ,8.122      ,I.P.College For Women                   
+190   ,16058570003     ,PRATEEK KUMAR             ,8.122      ,Ram Lal Anand College (Day)             
+191   ,16058570030     ,VIJAY PRATAP SINGH        ,8.122      ,Ram Lal Anand College (Day)             
+192   ,16075570028     ,KHUSHBOO GROVER           ,8.122      ,Shyama Prasad Mukherji College for Women
+193   ,16013570026     ,NEERAJ PATEL              ,8.108      ,College Of Vocational Studies           
+194   ,16015570052     ,SHRADDHA                  ,8.095      ,Deen Dayal Upadhyaya College            
+195   ,16066570001     ,AMBIKA ANAND              ,8.081      ,Shaheed Rajguru College of Applied Sciences for Women
+196   ,16075570002     ,AKSHITA GARG              ,8.081      ,Shyama Prasad Mukherji College for Women
+197   ,16001570038     ,SHUBHAM PAL               ,8.068      ,Acharya Narendra Dev College            
+198   ,16013570040     ,RIYA CHHILLAR             ,8.068      ,College Of Vocational Studies           
+199   ,16067570005     ,ANSHU KUMAR               ,8.068      ,Shaheed Sukhdev College of Business Studies
+200   ,16078570032     ,NAKUL ARORA               ,8.068      ,Sri Guru Gobind Singh College Of Commerce
+201   ,16001570005     ,ASHISH SINGLA             ,8.054      ,Acharya Narendra Dev College            
+202   ,16029570009     ,DEEPSHIKHA                ,8.054      ,I.P.College For Women                   
+203   ,16009570006     ,SHIVAM DIXIT              ,8.041      ,Bhaskaracharya College of Applied Sciences
+204   ,16020570011     ,KISHOR KUMAR              ,8.041      ,Ramanujan College                       
+205   ,16020570025     ,PIYUSH PALIWAL            ,8.041      ,Ramanujan College                       
+206   ,16058570035     ,HEMANT PRAKASH            ,8.041      ,Ram Lal Anand College (Day)             
+207   ,16003570027     ,GAURAV ARORA              ,8.027      ,Atma Ram Sanatan Dharam College         
+208   ,16025570034     ,DAMANPREET SINGH          ,8.027      ,Hans Raj College                        
+209   ,16066570004     ,FARHAT AFZA               ,8.027      ,Shaheed Rajguru College of Applied Sciences for Women
+210   ,16078570037     ,PRACHI ROHIRA             ,8.027      ,Sri Guru Gobind Singh College Of Commerce
+211   ,16001570040     ,SUNIL SOLANKI             ,8.014      ,Acharya Narendra Dev College            
+212   ,16003570008     ,SAURAV                    ,8.014      ,Atma Ram Sanatan Dharam College         
+213   ,16013570051     ,SOUMYA SHARMA             ,8.014      ,College Of Vocational Studies           
+214   ,16015570042     ,RITWICK VERMA             ,8.014      ,Deen Dayal Upadhyaya College            
+215   ,16035570034     ,K.SUBRAMANIAM             ,8.014      ,Keshav Mahavidyalaya                    
+216   ,16075570047     ,PRIYA CHATURVEDI          ,8.014      ,Shyama Prasad Mukherji College for Women
+217   ,16015570030     ,MOHIT BEHL                ,8.0        ,Deen Dayal Upadhyaya College            
+218   ,16058570011     ,ANSHU YADAV               ,8.0        ,Ram Lal Anand College (Day)             
+219   ,16025570062     ,YASH SHAH                 ,7.986      ,Hans Raj College                        
+220   ,16035570053     ,NIKHIL AGARWAL            ,7.986      ,Keshav Mahavidyalaya                    
+221   ,16035570058     ,PREKSHA                   ,7.986      ,Keshav Mahavidyalaya                    
+222   ,16009570015     ,PRAVEEN DWIVEDI           ,7.973      ,Bhaskaracharya College of Applied Sciences
+223   ,16033570040     ,SIMRAN GARG               ,7.973      ,Kalindi College                         
+224   ,16035570014     ,ARUN JAIN                 ,7.973      ,Keshav Mahavidyalaya                    
+225   ,16035570049     ,MUSKAN KATHURIA           ,7.973      ,Keshav Mahavidyalaya                    
+226   ,16066570009     ,KANISHKA ARORA            ,7.973      ,Shaheed Rajguru College of Applied Sciences for Women
+227   ,16066570020     ,RIDDHI SURYAVANSHI        ,7.973      ,Shaheed Rajguru College of Applied Sciences for Women
+228   ,16067570040     ,TANVI GOYAL               ,7.973      ,Shaheed Sukhdev College of Business Studies
+229   ,16029570003     ,ANISHA GOSWAMI            ,7.959      ,I.P.College For Women                   
+230   ,16035570025     ,DHARM VASHISTH            ,7.959      ,Keshav Mahavidyalaya                    
+231   ,16078570050     ,SHIKHA SHARMA             ,7.959      ,Sri Guru Gobind Singh College Of Commerce
+232   ,16035570067     ,RALLAPALLI NAGARJUN       ,7.946      ,Keshav Mahavidyalaya                    
+233   ,16075570014     ,DEEPSHIKHA                ,7.946      ,Shyama Prasad Mukherji College for Women
+234   ,16075570059     ,SHALLY                    ,7.946      ,Shyama Prasad Mukherji College for Women
+235   ,16001570021     ,NIMISH NAILWAL            ,7.932      ,Acharya Narendra Dev College            
+236   ,16003570037     ,HITESH KUMAR              ,7.932      ,Atma Ram Sanatan Dharam College         
+237   ,16035570003     ,AASHISH                   ,7.932      ,Keshav Mahavidyalaya                    
+238   ,16035570027     ,DIVYANSHI                 ,7.932      ,Keshav Mahavidyalaya                    
+239   ,16035570063     ,RADHIKA CHHABRA           ,7.932      ,Keshav Mahavidyalaya                    
+240   ,16029570040     ,SHRUTI AGGARWAL           ,7.919      ,I.P.College For Women                   
+241   ,16067570022     ,MOHD AMEED ZAIN           ,7.919      ,Shaheed Sukhdev College of Business Studies
+242   ,16078570059     ,VINITA THADANI            ,7.905      ,Sri Guru Gobind Singh College Of Commerce
+243   ,16075570009     ,ANUSHKA VASHISTHA         ,7.892      ,Shyama Prasad Mukherji College for Women
+244   ,16078570001     ,AAYUSH GUPTA              ,7.892      ,Sri Guru Gobind Singh College Of Commerce
+245   ,16009570009     ,TUSHAR GAUTAM             ,7.878      ,Bhaskaracharya College of Applied Sciences
+246   ,16013570015     ,GARIMA MUNDHRA            ,7.878      ,College Of Vocational Studies           
+247   ,16033570017     ,ANAMIKA KUMARI            ,7.878      ,Kalindi College                         
+248   ,16075570029     ,MABLE RAJAN               ,7.865      ,Shyama Prasad Mukherji College for Women
+249   ,16029570002     ,AKANKSHA SINGH            ,7.851      ,I.P.College For Women                   
+250   ,16066570006     ,ISHIKA SAINI              ,7.851      ,Shaheed Rajguru College of Applied Sciences for Women
+251   ,16078570055     ,SIMARPREET KAUR           ,7.851      ,Sri Guru Gobind Singh College Of Commerce
+252   ,16029570023     ,PARUL YADAV               ,7.838      ,I.P.College For Women                   
+253   ,16066570024     ,SRISHTI JAIN              ,7.838      ,Shaheed Rajguru College of Applied Sciences for Women
+254   ,16001570034     ,SANJU KUMAR MAURYA        ,7.824      ,Acharya Narendra Dev College            
+255   ,16003570006     ,KAMAL YADAV               ,7.824      ,Atma Ram Sanatan Dharam College         
+256   ,16009570030     ,AKUL BHARTI               ,7.824      ,Bhaskaracharya College of Applied Sciences
+257   ,16015570056     ,TARUN SHARMA              ,7.824      ,Deen Dayal Upadhyaya College            
+258   ,16053570055     ,YUSUF PARVEZ              ,7.824      ,P.G.D.A.V. College (Day)                
+259   ,16059570006     ,ASHISH KUMAR CHOUDHARY    ,7.824      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+260   ,16075570024     ,ISHITA SHARMA             ,7.824      ,Shyama Prasad Mukherji College for Women
+261   ,16078570019     ,JAPNEET SINGH             ,7.824      ,Sri Guru Gobind Singh College Of Commerce
+262   ,16009570008     ,MOHD SAAIM SIDDIQUI       ,7.811      ,Bhaskaracharya College of Applied Sciences
+263   ,16015570053     ,SHUBHAM GAUTAM            ,7.797      ,Deen Dayal Upadhyaya College            
+264   ,16053570010     ,DEEPAK SHARMA             ,7.797      ,P.G.D.A.V. College (Day)                
+265   ,16053570030     ,MOHIT SARASWAT            ,7.797      ,P.G.D.A.V. College (Day)                
+266   ,16067570004     ,ANMOL WASSAN              ,7.797      ,Shaheed Sukhdev College of Business Studies
+267   ,16025570052     ,NAYONIKA BARUA            ,7.784      ,Hans Raj College                        
+268   ,16058570033     ,AAKASH                    ,7.784      ,Ram Lal Anand College (Day)             
+269   ,16066570010     ,KASHISH VERMA             ,7.784      ,Shaheed Rajguru College of Applied Sciences for Women
+270   ,16075570017     ,DIVYANSHI                 ,7.784      ,Shyama Prasad Mukherji College for Women
+271   ,16003570016     ,ARYAN M SINDWANI          ,7.77       ,Atma Ram Sanatan Dharam College         
+272   ,16015570023     ,LOKESH GUPTA              ,7.77       ,Deen Dayal Upadhyaya College            
+273   ,16025570020     ,MUSKAN                    ,7.77       ,Hans Raj College                        
+274   ,16025570033     ,PRABHAT SINGH             ,7.757      ,Hans Raj College                        
+275   ,16029570030     ,RADHA AGRAWAL             ,7.757      ,I.P.College For Women                   
+276   ,16035570046     ,MOHIT SETHI               ,7.757      ,Keshav Mahavidyalaya                    
+277   ,16009570016     ,HIMANSHU SHARMA           ,7.743      ,Bhaskaracharya College of Applied Sciences
+278   ,16015570005     ,ANJALI SINGH              ,7.743      ,Deen Dayal Upadhyaya College            
+279   ,16075570020     ,GITANJALI SAINI           ,7.743      ,Shyama Prasad Mukherji College for Women
+280   ,16075570018     ,DRISHTI KAPOOR            ,7.73       ,Shyama Prasad Mukherji College for Women
+281   ,16075570040     ,NEERAJ                    ,7.73       ,Shyama Prasad Mukherji College for Women
+282   ,16078570035     ,PIYUSH ARORA              ,7.73       ,Sri Guru Gobind Singh College Of Commerce
+283   ,16025570014     ,ANNIKA AMBER              ,7.716      ,Hans Raj College                        
+284   ,16059570012     ,KSHITIJ JAIN              ,7.716      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+285   ,16003570020     ,HEMANT SINGH              ,7.703      ,Atma Ram Sanatan Dharam College         
+286   ,16009570003     ,GAURAV NATH JHA           ,7.703      ,Bhaskaracharya College of Applied Sciences
+287   ,16015570012     ,AYUSHI AGARWAL            ,7.703      ,Deen Dayal Upadhyaya College            
+288   ,16033570032     ,BHAWNA SHARMA             ,7.703      ,Kalindi College                         
+289   ,16066570023     ,SHRISTI VERMANI           ,7.703      ,Shaheed Rajguru College of Applied Sciences for Women
+290   ,16015570027     ,MAYANK AGGARWAL           ,7.689      ,Deen Dayal Upadhyaya College            
+291   ,16078570056     ,SUDHANSHU KUMAR RAI       ,7.689      ,Sri Guru Gobind Singh College Of Commerce
+292   ,16001570003     ,AMRITPAL SINGH BENIPAL    ,7.676      ,Acharya Narendra Dev College            
+293   ,16013570024     ,MUSKAN BHATNAGAR          ,7.676      ,College Of Vocational Studies           
+294   ,16033570031     ,AKANKSHA CHAUHAN          ,7.676      ,Kalindi College                         
+295   ,16059570024     ,RAGHAV JAGGI              ,7.676      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+296   ,16003570044     ,PARISKHIT KAMAT           ,7.662      ,Atma Ram Sanatan Dharam College         
+297   ,16075570042     ,NIDHI SHARMA              ,7.662      ,Shyama Prasad Mukherji College for Women
+298   ,16003570005     ,ISHU BANSAL               ,7.649      ,Atma Ram Sanatan Dharam College         
+299   ,16059570022     ,AMAN SAINI                ,7.649      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+300   ,16067570032     ,SAMBHAV JAIN              ,7.649      ,Shaheed Sukhdev College of Business Studies
+301   ,16078570058     ,VANI GARG                 ,7.649      ,Sri Guru Gobind Singh College Of Commerce
+302   ,16025570045     ,SARVESH GUPTA             ,7.635      ,Hans Raj College                        
+303   ,16059570037     ,SURAJ  PANDEY             ,7.635      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+304   ,16033570029     ,TULIKA SINGH              ,7.622      ,Kalindi College                         
+305   ,16075570049     ,PURNIMA GUPTA             ,7.622      ,Shyama Prasad Mukherji College for Women
+306   ,16029570043     ,SIMRAN MEHRA              ,7.608      ,I.P.College For Women                   
+307   ,16035570016     ,ATUL TYAGI                ,7.608      ,Keshav Mahavidyalaya                    
+308   ,16067570031     ,RISHABH JAIN              ,7.608      ,Shaheed Sukhdev College of Business Studies
+309   ,16078570025     ,KIRANJOT KAUR             ,7.608      ,Sri Guru Gobind Singh College Of Commerce
+310   ,16029570025     ,PRIYA JADON               ,7.595      ,I.P.College For Women                   
+311   ,16058570027     ,TARUN KUMAR               ,7.595      ,Ram Lal Anand College (Day)             
+312   ,16067570006     ,ANUBHAV KANDIYAL          ,7.595      ,Shaheed Sukhdev College of Business Studies
+313   ,16078570021     ,JATIN NAGPAL              ,7.595      ,Sri Guru Gobind Singh College Of Commerce
+314   ,16013570054     ,TRISHANT SHARMA           ,7.581      ,College Of Vocational Studies           
+315   ,16025570022     ,NANDITA SAXENA            ,7.581      ,Hans Raj College                        
+316   ,16075570011     ,CHARU WADHWA              ,7.581      ,Shyama Prasad Mukherji College for Women
+317   ,16033570047     ,PREETI MAURYA             ,7.568      ,Kalindi College                         
+318   ,16001570010     ,DIVYANSHI                 ,7.554      ,Acharya Narendra Dev College            
+319   ,16029570021     ,NUPUR BRAHAMANYA          ,7.554      ,I.P.College For Women                   
+320   ,16066570025     ,SURABHI SINGH             ,7.554      ,Shaheed Rajguru College of Applied Sciences for Women
+321   ,16033570004     ,SHIVANI YADAV             ,7.541      ,Kalindi College                         
+322   ,16075570051     ,RAKSHITA SOLANKI          ,7.541      ,Shyama Prasad Mukherji College for Women
+323   ,16003570007     ,KARTIK GUPTA              ,7.527      ,Atma Ram Sanatan Dharam College         
+324   ,16035570068     ,RIMJHIM                   ,7.527      ,Keshav Mahavidyalaya                    
+325   ,16053570049     ,SURAJ                     ,7.514      ,P.G.D.A.V. College (Day)                
+326   ,16078570060     ,YASH BHARDWAJ             ,7.514      ,Sri Guru Gobind Singh College Of Commerce
+327   ,16029570029     ,RACHITA AGGARWAL          ,7.5        ,I.P.College For Women                   
+328   ,16001570009     ,DEEPANSHU BANERJEE        ,7.486      ,Acharya Narendra Dev College            
+329   ,16013570030     ,PARUL VERMA               ,7.486      ,College Of Vocational Studies           
+330   ,16020570028     ,ROHIT SHAKYA              ,7.486      ,Ramanujan College                       
+331   ,16058570009     ,SIDDHARTH MANI TRIPATHI   ,7.486      ,Ram Lal Anand College (Day)             
+332   ,16013570028     ,NISHI SINGH               ,7.473      ,College Of Vocational Studies           
+333   ,16067570034     ,SATISH                    ,7.473      ,Shaheed Sukhdev College of Business Studies
+334   ,16078570048     ,SARTHAK GUPTA             ,7.473      ,Sri Guru Gobind Singh College Of Commerce
+335   ,16020570009     ,JATIN SACHDEVA            ,7.459      ,Ramanujan College                       
+336   ,16025570025     ,NIDHI GORYAN              ,7.446      ,Hans Raj College                        
+337   ,16058570007     ,DIVYA SINGH               ,7.446      ,Ram Lal Anand College (Day)             
+338   ,16066570007     ,J SWETA                   ,7.446      ,Shaheed Rajguru College of Applied Sciences for Women
+339   ,16013570061     ,VISHESH AGGARWAL          ,7.432      ,College Of Vocational Studies           
+340   ,16025570005     ,MINAKSHI ANURAGI          ,7.432      ,Hans Raj College                        
+341   ,16033570012     ,YASHIKA SINGHAL           ,7.432      ,Kalindi College                         
+342   ,16053570022     ,KUNAL GOLA                ,7.432      ,P.G.D.A.V. College (Day)                
+343   ,16066570029     ,HIMANSHI KAUNDAL          ,7.432      ,Shaheed Rajguru College of Applied Sciences for Women
+344   ,16003570028     ,SOURAV GOSWAMI            ,7.419      ,Atma Ram Sanatan Dharam College         
+345   ,16033570043     ,TANYA GUPTA               ,7.419      ,Kalindi College                         
+346   ,16059570036     ,AKANKSHA                  ,7.419      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+347   ,16067570012     ,DIVESH KUMAR              ,7.419      ,Shaheed Sukhdev College of Business Studies
+348   ,16001570002     ,AKASH VISHNOI             ,7.405      ,Acharya Narendra Dev College            
+349   ,16029570014     ,HIMANI POONIA             ,7.405      ,I.P.College For Women                   
+350   ,16035570032     ,ISHVINA KAPOOR            ,7.405      ,Keshav Mahavidyalaya                    
+351   ,16067570024     ,NIKHIL MIMROTH            ,7.405      ,Shaheed Sukhdev College of Business Studies
+352   ,16075570039     ,NANCY CHOUDHARY           ,7.405      ,Shyama Prasad Mukherji College for Women
+353   ,16025570039     ,SATYAM KUMAR              ,7.392      ,Hans Raj College                        
+354   ,16025570068     ,ANSHU KUMARI              ,7.392      ,Hans Raj College                        
+355   ,16075570013     ,DEEPIKA                   ,7.392      ,Shyama Prasad Mukherji College for Women
+356   ,16075570033     ,MANSI NEGI                ,7.392      ,Shyama Prasad Mukherji College for Women
+357   ,16003570029     ,AYUSH ARORA               ,7.378      ,Atma Ram Sanatan Dharam College         
+358   ,16015570040     ,RISHAB SINGH              ,7.378      ,Deen Dayal Upadhyaya College            
+359   ,16020570040     ,VED TRIPATHI              ,7.378      ,Ramanujan College                       
+360   ,16067570008     ,ANURAG KUNDRA             ,7.351      ,Shaheed Sukhdev College of Business Studies
+361   ,16078570006     ,ARSHNEET KATHURIA         ,7.351      ,Sri Guru Gobind Singh College Of Commerce
+362   ,16001570047     ,VIVEK DUBEY               ,7.338      ,Acharya Narendra Dev College            
+363   ,16003570042     ,VIPIN NIRALA              ,7.338      ,Atma Ram Sanatan Dharam College         
+364   ,16025570067     ,MOHD AZHARUDDIN           ,7.338      ,Hans Raj College                        
+365   ,16029570013     ,DIVYANSHI SAXENA          ,7.338      ,I.P.College For Women                   
+366   ,16067570002     ,AKSHIT TAYAL              ,7.338      ,Shaheed Sukhdev College of Business Studies
+367   ,16075570050     ,RADHIKA                   ,7.338      ,Shyama Prasad Mukherji College for Women
+368   ,16025570013     ,SHUBHAM KR GARG           ,7.324      ,Hans Raj College                        
+369   ,16053570005     ,ANJALI SAJWAN             ,7.324      ,P.G.D.A.V. College (Day)                
+370   ,16075570056     ,SANCHARI ROUT             ,7.324      ,Shyama Prasad Mukherji College for Women
+371   ,16001570033     ,SAMEER KUMAR              ,7.311      ,Acharya Narendra Dev College            
+372   ,16015570017     ,GUNJAN AHUJA              ,7.311      ,Deen Dayal Upadhyaya College            
+373   ,16025570063     ,JATIN                     ,7.311      ,Hans Raj College                        
+374   ,16053570031     ,MUKUL YADAV               ,7.311      ,P.G.D.A.V. College (Day)                
+375   ,16013570048     ,SHRADHA THANI             ,7.297      ,College Of Vocational Studies           
+376   ,16075570005     ,ANKITA KUMARI             ,7.297      ,Shyama Prasad Mukherji College for Women
+377   ,16009570012     ,RAVI KANT JHA             ,7.284      ,Bhaskaracharya College of Applied Sciences
+378   ,16009570021     ,ABHISHEK KUMAR SINGH      ,7.284      ,Bhaskaracharya College of Applied Sciences
+379   ,16013570056     ,UDVIZA CHOUDHARY          ,7.284      ,College Of Vocational Studies           
+380   ,16020570043     ,VIVEK KAUSHAL             ,7.284      ,Ramanujan College                       
+381   ,16001570023     ,PRAJJWAL SINGH GANGWAR    ,7.27       ,Acharya Narendra Dev College            
+382   ,16003570010     ,DIKSHANT                  ,7.27       ,Atma Ram Sanatan Dharam College         
+383   ,16033570005     ,MINK SINGH CHAUHAN        ,7.27       ,Kalindi College                         
+384   ,16033570028     ,TANYA GOYAL               ,7.27       ,Kalindi College                         
+385   ,16058570014     ,DISHA MISHRA              ,7.27       ,Ram Lal Anand College (Day)             
+386   ,16078570008     ,BHUMITRA SHARMA           ,7.27       ,Sri Guru Gobind Singh College Of Commerce
+387   ,16075570068     ,SMRITI KOMAL              ,7.257      ,Shyama Prasad Mukherji College for Women
+388   ,16009570022     ,BHASKAR GUPTA             ,7.243      ,Bhaskaracharya College of Applied Sciences
+389   ,16066570012     ,MOKSHDA                   ,7.23       ,Shaheed Rajguru College of Applied Sciences for Women
+390   ,16078570004     ,ANURAG KUMAR              ,7.23       ,Sri Guru Gobind Singh College Of Commerce
+391   ,16013570038     ,REEMA CHAUHAN             ,7.216      ,College Of Vocational Studies           
+392   ,16025570035     ,RUPESH RAJ                ,7.216      ,Hans Raj College                        
+393   ,16015570059     ,VINITA KUMARI             ,7.203      ,Deen Dayal Upadhyaya College            
+394   ,16029570026     ,PRIYA KUMARI              ,7.203      ,I.P.College For Women                   
+395   ,16078570003     ,AKSHIT ARORA              ,7.203      ,Sri Guru Gobind Singh College Of Commerce
+396   ,16067570014     ,GEDUN DRAKPA              ,7.189      ,Shaheed Sukhdev College of Business Studies
+397   ,16075570006     ,ANKITA KUMARI SINGH       ,7.189      ,Shyama Prasad Mukherji College for Women
+398   ,16058570039     ,SAURABH SARASWAT          ,7.176      ,Ram Lal Anand College (Day)             
+399   ,16013570020     ,KETAN SANSANWAL           ,7.162      ,College Of Vocational Studies           
+400   ,16020570010     ,KESHAV KUMAR SHIVANSHU    ,7.162      ,Ramanujan College                       
+401   ,16053570013     ,GAGAN ARORA               ,7.162      ,P.G.D.A.V. College (Day)                
+402   ,16053570018     ,JASMINE SHARMA            ,7.149      ,P.G.D.A.V. College (Day)                
+403   ,16067570016     ,HITESH YADAV              ,7.149      ,Shaheed Sukhdev College of Business Studies
+404   ,16001570028     ,RASHI WALIA               ,7.135      ,Acharya Narendra Dev College            
+405   ,16053570003     ,AKANSHA MATHUR            ,7.122      ,P.G.D.A.V. College (Day)                
+406   ,16013570036     ,PUSHPAK DHAMI             ,7.108      ,College Of Vocational Studies           
+407   ,16035570066     ,RAHUL RAY                 ,7.108      ,Keshav Mahavidyalaya                    
+408   ,16053570009     ,BASU                      ,7.108      ,P.G.D.A.V. College (Day)                
+409   ,16058570024     ,VIKAS KUMAR               ,7.108      ,Ram Lal Anand College (Day)             
+410   ,16067570003     ,ANKUR KUMAR               ,7.108      ,Shaheed Sukhdev College of Business Studies
+411   ,16075570036     ,MONIKA YADAV              ,7.108      ,Shyama Prasad Mukherji College for Women
+412   ,16078570011     ,DHRUV KAUSHIK             ,7.095      ,Sri Guru Gobind Singh College Of Commerce
+413   ,16078570044     ,RITIKA LALWANI            ,7.095      ,Sri Guru Gobind Singh College Of Commerce
+414   ,16009570025     ,VINAY DANGWAL             ,7.081      ,Bhaskaracharya College of Applied Sciences
+415   ,16013570031     ,PARTH KHATRI              ,7.081      ,College Of Vocational Studies           
+416   ,16013570033     ,PRAFULL MISRA             ,7.054      ,College Of Vocational Studies           
+417   ,16075570065     ,SHWETA PANDEY             ,7.054      ,Shyama Prasad Mukherji College for Women
+418   ,16009570029     ,HIMANSHU                  ,7.041      ,Bhaskaracharya College of Applied Sciences
+419   ,16015570010     ,ASHNEET KAUR              ,7.041      ,Deen Dayal Upadhyaya College            
+420   ,16078570029     ,MANMEET KAUR              ,7.041      ,Sri Guru Gobind Singh College Of Commerce
+421   ,16003570036     ,LALIT KUMAR               ,7.027      ,Atma Ram Sanatan Dharam College         
+422   ,16013570009     ,DEEPAK KUMAR              ,7.027      ,College Of Vocational Studies           
+423   ,16015570004     ,AMAN MANOCHA              ,7.027      ,Deen Dayal Upadhyaya College            
+424   ,16033570033     ,HIMANSHI GUPTA            ,7.027      ,Kalindi College                         
+425   ,16053570023     ,KUNAL GROVER              ,7.027      ,P.G.D.A.V. College (Day)                
+426   ,16058570034     ,PRERNA SEMWAL             ,7.014      ,Ram Lal Anand College (Day)             
+427   ,16067570017     ,HRISHABH PRAKASH          ,7.014      ,Shaheed Sukhdev College of Business Studies
+428   ,16075570060     ,SHALVI GUPTA              ,7.014      ,Shyama Prasad Mukherji College for Women
+429   ,16003570004     ,SHAFIQUR RAHMAN           ,7.0        ,Atma Ram Sanatan Dharam College         
+430   ,16003570014     ,AGASTYA SHARMA            ,7.0        ,Atma Ram Sanatan Dharam College         
+431   ,16003570026     ,ANKIT YADAV               ,7.0        ,Atma Ram Sanatan Dharam College         
+432   ,16078570034     ,PAWANJOT SINGH KOHLI      ,7.0        ,Sri Guru Gobind Singh College Of Commerce
+433   ,16035570050     ,NAMRATA AGRAWAL           ,6.986      ,Keshav Mahavidyalaya                    
+434   ,16058570029     ,SHUBHAM RAJ               ,6.986      ,Ram Lal Anand College (Day)             
+435   ,16075570015     ,DHAIRYA GAUTAM            ,6.986      ,Shyama Prasad Mukherji College for Women
+436   ,16020570005     ,BHUPENDRA SINGH MEHRA     ,6.973      ,Ramanujan College                       
+437   ,16058570041     ,PAVITRATA SINGH           ,6.973      ,Ram Lal Anand College (Day)             
+438   ,16067570001     ,ABHISHEK DEV              ,6.959      ,Shaheed Sukhdev College of Business Studies
+439   ,16009570005     ,GAURAV NAUTIYAL           ,6.946      ,Bhaskaracharya College of Applied Sciences
+440   ,16015570014     ,DIVYANSHU RALLAN          ,6.946      ,Deen Dayal Upadhyaya College            
+441   ,16025570060     ,DAMINI CHAUHAN            ,6.946      ,Hans Raj College                        
+442   ,16033570026     ,SANDHYA                   ,6.946      ,Kalindi College                         
+443   ,16029570041     ,SHUBHANGI CHAKRAVERTY     ,6.932      ,I.P.College For Women                   
+444   ,16078570051     ,SHIKHAR RANA              ,6.932      ,Sri Guru Gobind Singh College Of Commerce
+445   ,16003570002     ,ABHISHEK SINGH            ,6.919      ,Atma Ram Sanatan Dharam College         
+446   ,16009570017     ,ANUJ AGARWAL              ,6.919      ,Bhaskaracharya College of Applied Sciences
+447   ,16029570037     ,SANCHARI GHOSH            ,6.919      ,I.P.College For Women                   
+448   ,16053570052     ,VRINDA                    ,6.919      ,P.G.D.A.V. College (Day)                
+449   ,16059570014     ,SAGAR DHIMAN              ,6.919      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+450   ,16033570035     ,PALLAVI PAL               ,6.905      ,Kalindi College                         
+451   ,16075570046     ,PRERNA GUPTA              ,6.905      ,Shyama Prasad Mukherji College for Women
+452   ,16067570013     ,ERA BHATIA                ,6.892      ,Shaheed Sukhdev College of Business Studies
+453   ,16075570038     ,MUSKAN SAPRA              ,6.878      ,Shyama Prasad Mukherji College for Women
+454   ,16067570041     ,VANSH RAJPAL              ,6.865      ,Shaheed Sukhdev College of Business Studies
+455   ,16075570004     ,ANJU SINGH                ,6.865      ,Shyama Prasad Mukherji College for Women
+456   ,16020570037     ,UDIT KHANNA               ,6.851      ,Ramanujan College                       
+457   ,16025570004     ,SOMIT KANODIA             ,6.851      ,Hans Raj College                        
+458   ,16029570038     ,SARITA CHAUDHARY          ,6.851      ,I.P.College For Women                   
+459   ,16075570037     ,MUSKAN JAIN               ,6.851      ,Shyama Prasad Mukherji College for Women
+460   ,16078570047     ,SAHIL MIDHA               ,6.851      ,Sri Guru Gobind Singh College Of Commerce
+461   ,16025570009     ,AKANSHA RAJPOOT           ,6.838      ,Hans Raj College                        
+462   ,16078570054     ,SHREYA SHREYASHI          ,6.838      ,Sri Guru Gobind Singh College Of Commerce
+463   ,16033570018     ,ANKITA SINGH              ,6.824      ,Kalindi College                         
+464   ,16067570023     ,MOHD. YAVAR TARIQ         ,6.824      ,Shaheed Sukhdev College of Business Studies
+465   ,16013570001     ,ABHILASHA BATRA           ,6.811      ,College Of Vocational Studies           
+466   ,16053570017     ,IRSHAD                    ,6.811      ,P.G.D.A.V. College (Day)                
+467   ,16058570032     ,MADHUR BAIN SINGH         ,6.797      ,Ram Lal Anand College (Day)             
+468   ,16066570036     ,PRERNA UPMAN              ,6.797      ,Shaheed Rajguru College of Applied Sciences for Women
+469   ,16075570048     ,PRIYANKA BASNAL           ,6.797      ,Shyama Prasad Mukherji College for Women
+470   ,16075570008     ,ANSHIKA GOVIL             ,6.784      ,Shyama Prasad Mukherji College for Women
+471   ,16033570021     ,ANVI BINDAL               ,6.77       ,Kalindi College                         
+472   ,16058570025     ,PARUL GAHLOT              ,6.77       ,Ram Lal Anand College (Day)             
+473   ,16078570043     ,RIA SARDANA               ,6.77       ,Sri Guru Gobind Singh College Of Commerce
+474   ,16013570016     ,HARSH GAUR                ,6.757      ,College Of Vocational Studies           
+475   ,16020570008     ,DIVAKAR BHARDWAJ          ,6.757      ,Ramanujan College                       
+476   ,16025570018     ,ARU PATEL                 ,6.757      ,Hans Raj College                        
+477   ,16033570046     ,KRITIKA RAI               ,6.757      ,Kalindi College                         
+478   ,16035570061     ,PULKIT AGGARWAL           ,6.757      ,Keshav Mahavidyalaya                    
+479   ,16078570024     ,KINSHUK CHOPRA            ,6.757      ,Sri Guru Gobind Singh College Of Commerce
+480   ,16013570012     ,GAURAV                    ,6.743      ,College Of Vocational Studies           
+481   ,16013570013     ,GAURAV BOTHRA             ,6.743      ,College Of Vocational Studies           
+482   ,16015570039     ,RAMAN KUMAR TANWAR        ,6.743      ,Deen Dayal Upadhyaya College            
+483   ,16020570017     ,MOHIT SHARMA              ,6.743      ,Ramanujan College                       
+484   ,16033570001     ,POOJA MANETHIYA           ,6.743      ,Kalindi College                         
+485   ,16078570017     ,ISHMEET KAUR AUBI         ,6.743      ,Sri Guru Gobind Singh College Of Commerce
+486   ,16035570006     ,AMIT KUMAR                ,6.73       ,Keshav Mahavidyalaya                    
+487   ,16009570024     ,ATUL KUMAR                ,6.716      ,Bhaskaracharya College of Applied Sciences
+488   ,16015570054     ,SHUBHAM SHARMA            ,6.716      ,Deen Dayal Upadhyaya College            
+489   ,16009570034     ,AMAN PUNDIR               ,6.703      ,Bhaskaracharya College of Applied Sciences
+490   ,16015570041     ,RITU BURMAN               ,6.703      ,Deen Dayal Upadhyaya College            
+491   ,16058570002     ,ANSHUL SHARMA             ,6.703      ,Ram Lal Anand College (Day)             
+492   ,16075570026     ,KANTA DWIVEDI             ,6.703      ,Shyama Prasad Mukherji College for Women
+493   ,16075570061     ,SHIVANI BHADOURIYA        ,6.703      ,Shyama Prasad Mukherji College for Women
+494   ,16015570033     ,NIKHIL                    ,6.689      ,Deen Dayal Upadhyaya College            
+495   ,16015570034     ,NIKHIL KUMAR              ,6.689      ,Deen Dayal Upadhyaya College            
+496   ,16025570027     ,RISHIKANT PATEL           ,6.689      ,Hans Raj College                        
+497   ,16009570001     ,YETENDRA BHANDARI         ,6.676      ,Bhaskaracharya College of Applied Sciences
+498   ,16013570019     ,JITENDER KUMAR            ,6.662      ,College Of Vocational Studies           
+499   ,16053570011     ,DEEPANSHU JAIN            ,6.662      ,P.G.D.A.V. College (Day)                
+500   ,16015570003     ,AKSHAY KANOJIA            ,6.635      ,Deen Dayal Upadhyaya College            
+501   ,16009570010     ,ABHAY RAWAT               ,6.622      ,Bhaskaracharya College of Applied Sciences
+502   ,16009570033     ,SUNDEEP MALIK             ,6.622      ,Bhaskaracharya College of Applied Sciences
+503   ,16020570031     ,SANGHPRIYA GAUTAM         ,6.622      ,Ramanujan College                       
+504   ,16020570023     ,PRASUN VARSHNEY           ,6.608      ,Ramanujan College                       
+505   ,16020570029     ,SACHIN SHARMA             ,6.608      ,Ramanujan College                       
+506   ,16033570042     ,TANVI SOVANI              ,6.608      ,Kalindi College                         
+507   ,16035570036     ,KANISHK ANAND             ,6.608      ,Keshav Mahavidyalaya                    
+508   ,16059570015     ,ANURAG GUPTA              ,6.608      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+509   ,16015570002     ,AJAY                      ,6.595      ,Deen Dayal Upadhyaya College            
+510   ,16020570007     ,DIKSHA                    ,6.595      ,Ramanujan College                       
+511   ,16059570005     ,UJJWAL PRATAP SINGH       ,6.581      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+512   ,16013570023     ,MONA                      ,6.568      ,College Of Vocational Studies           
+513   ,16015570062     ,RAHUL MAURYA              ,6.568      ,Deen Dayal Upadhyaya College            
+514   ,16035570011     ,ANURAG SHARMA             ,6.568      ,Keshav Mahavidyalaya                    
+515   ,16053570054     ,YASHIKA GULATI            ,6.568      ,P.G.D.A.V. College (Day)                
+516   ,16075570022     ,HEENA                     ,6.554      ,Shyama Prasad Mukherji College for Women
+517   ,16025570030     ,SWASTI JAIN               ,6.527      ,Hans Raj College                        
+518   ,16075570012     ,DEEKSHA TIWARI            ,6.527      ,Shyama Prasad Mukherji College for Women
+519   ,16075570063     ,SHREYA                    ,6.527      ,Shyama Prasad Mukherji College for Women
+520   ,16003570015     ,RAKSHIT KUMAR             ,6.514      ,Atma Ram Sanatan Dharam College         
+521   ,16009570002     ,ANKIT JUGRAN              ,6.514      ,Bhaskaracharya College of Applied Sciences
+522   ,16075570032     ,MANSI                     ,6.514      ,Shyama Prasad Mukherji College for Women
+523   ,16009570019     ,GAUTAM KUMAR              ,6.5        ,Bhaskaracharya College of Applied Sciences
+524   ,16015570029     ,MOHD. MONISH              ,6.5        ,Deen Dayal Upadhyaya College            
+525   ,16020570018     ,MUKUL                     ,6.5        ,Ramanujan College                       
+526   ,16029570039     ,SHIVANI                   ,6.5        ,I.P.College For Women                   
+527   ,16067570036     ,SHIVAM AERY               ,6.5        ,Shaheed Sukhdev College of Business Studies
+528   ,16033570007     ,ANJALI SHARMA             ,6.486      ,Kalindi College                         
+529   ,16033570036     ,POOJA                     ,6.486      ,Kalindi College                         
+530   ,16059570016     ,DHARMESH KUMAR PANDEY     ,6.486      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+531   ,16067570026     ,PRASHANT KUMAR            ,6.486      ,Shaheed Sukhdev College of Business Studies
+532   ,16075570067     ,SIMRAN ATREY              ,6.486      ,Shyama Prasad Mukherji College for Women
+533   ,16033570009     ,POOJA                     ,6.473      ,Kalindi College                         
+534   ,16033570020     ,ANJALI SINGH              ,6.473      ,Kalindi College                         
+535   ,16001570008     ,DEEPANSH                  ,6.459      ,Acharya Narendra Dev College            
+536   ,16013570021     ,MAHENDER ARYA             ,6.459      ,College Of Vocational Studies           
+537   ,16058570017     ,TRIVENDRA KUMAR           ,6.459      ,Ram Lal Anand College (Day)             
+538   ,16059570018     ,RAJEEV PARSOIA            ,6.459      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+539   ,16059570019     ,AAKASH GUPTA              ,6.459      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+540   ,16075570031     ,MANISHA RANI              ,6.459      ,Shyama Prasad Mukherji College for Women
+541   ,16009570035     ,YOGENDRA SINGH            ,6.446      ,Bhaskaracharya College of Applied Sciences
+542   ,16053570015     ,HEMANT KUMAR              ,6.446      ,P.G.D.A.V. College (Day)                
+543   ,16009570014     ,NAVEEN ARYA               ,6.432      ,Bhaskaracharya College of Applied Sciences
+544   ,16015570045     ,SACHIN                    ,6.432      ,Deen Dayal Upadhyaya College            
+545   ,16025570002     ,HIMANSHU PRATAP SINGH     ,6.432      ,Hans Raj College                        
+546   ,16029570032     ,RISHANKI KULSHRESTHA      ,6.432      ,I.P.College For Women                   
+547   ,16075570021     ,GUNJAN TYAGI              ,6.432      ,Shyama Prasad Mukherji College for Women
+548   ,16009570027     ,ANUPAM SAINI              ,6.419      ,Bhaskaracharya College of Applied Sciences
+549   ,16015570051     ,SHIVANI                   ,6.419      ,Deen Dayal Upadhyaya College            
+550   ,16066570021     ,RITU PAL                  ,6.419      ,Shaheed Rajguru College of Applied Sciences for Women
+551   ,16033570037     ,POOJA                     ,6.405      ,Kalindi College                         
+552   ,16035570051     ,NEHA SONI                 ,6.405      ,Keshav Mahavidyalaya                    
+553   ,16033570003     ,KASHISH KHUNGER           ,6.392      ,Kalindi College                         
+554   ,16033570013     ,CHETNA YADAV              ,6.392      ,Kalindi College                         
+555   ,16033570023     ,KHYATI KUMAR              ,6.392      ,Kalindi College                         
+556   ,16078570018     ,JAI SHARMA                ,6.392      ,Sri Guru Gobind Singh College Of Commerce
+557   ,16009570037     ,YOGESH YADAV              ,6.378      ,Bhaskaracharya College of Applied Sciences
+558   ,16020570034     ,SHUBHAM PANDEY            ,6.378      ,Ramanujan College                       
+559   ,16035570057     ,PRAVEEN                   ,6.378      ,Keshav Mahavidyalaya                    
+560   ,16059570008     ,SHUBHAM SRIVASTAVA        ,6.378      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+561   ,16067570045     ,RAJAT KATIYAR             ,6.378      ,Shaheed Sukhdev College of Business Studies
+562   ,16035570033     ,JATIN SHARMA              ,6.365      ,Keshav Mahavidyalaya                    
+563   ,16067570043     ,VISHAL SIDDHA             ,6.365      ,Shaheed Sukhdev College of Business Studies
+564   ,16003570021     ,DIPESH GAUR               ,6.324      ,Atma Ram Sanatan Dharam College         
+565   ,16035570002     ,ABHISHEK SHARMA           ,6.324      ,Keshav Mahavidyalaya                    
+566   ,16075570035     ,MONIKA HIRANWAL           ,6.324      ,Shyama Prasad Mukherji College for Women
+567   ,16020570032     ,SHANEY ALAM               ,6.311      ,Ramanujan College                       
+568   ,16033570034     ,VIDHI KAUSHIK             ,6.311      ,Kalindi College                         
+569   ,16015570046     ,SACHIN RANA               ,6.297      ,Deen Dayal Upadhyaya College            
+570   ,16075570055     ,SAKSHI DAS                ,6.284      ,Shyama Prasad Mukherji College for Women
+571   ,16001570042     ,SUPRIYA PATEL             ,6.27       ,Acharya Narendra Dev College            
+572   ,16003570034     ,RANJEEV YADAV             ,6.27       ,Atma Ram Sanatan Dharam College         
+573   ,16033570038     ,PRIYANKA                  ,6.257      ,Kalindi College                         
+574   ,16035570039     ,MANOJ DHANGAR             ,6.257      ,Keshav Mahavidyalaya                    
+575   ,16075570003     ,ANJALI SINGH              ,6.257      ,Shyama Prasad Mukherji College for Women
+576   ,16058570005     ,PRAGYA AWASTHI            ,6.243      ,Ram Lal Anand College (Day)             
+577   ,16066570031     ,PRERNA NIM                ,6.23       ,Shaheed Rajguru College of Applied Sciences for Women
+578   ,16075570052     ,RIYA                      ,6.23       ,Shyama Prasad Mukherji College for Women
+579   ,16001570026     ,PRAVEEN KUMAR             ,6.216      ,Acharya Narendra Dev College            
+580   ,16025570031     ,AKASH DWIVEDI             ,6.216      ,Hans Raj College                        
+581   ,16035570019     ,CECILIA RUBY TIRKEY       ,6.216      ,Keshav Mahavidyalaya                    
+582   ,16078570002     ,AKHIL POKHRIYAL           ,6.216      ,Sri Guru Gobind Singh College Of Commerce
+583   ,16025570049     ,SOUMYA MITTAL             ,6.203      ,Hans Raj College                        
+584   ,16003570025     ,PRADEEP KUMAR             ,6.176      ,Atma Ram Sanatan Dharam College         
+585   ,16013570050     ,SHUBHAM VERMA             ,6.176      ,College Of Vocational Studies           
+586   ,16015570037     ,PRASHANT TYAGI            ,6.176      ,Deen Dayal Upadhyaya College            
+587   ,16020570022     ,OMANSH BHANDARI           ,6.176      ,Ramanujan College                       
+588   ,16020570013     ,MAHIMA KOHLI              ,6.162      ,Ramanujan College                       
+589   ,16067570019     ,KARTIKEY TYAGI            ,6.162      ,Shaheed Sukhdev College of Business Studies
+590   ,16015570049     ,SHASHANK KUMAR            ,6.149      ,Deen Dayal Upadhyaya College            
+591   ,16020570014     ,MANJULA                   ,6.135      ,Ramanujan College                       
+592   ,16033570039     ,SHIRIN KHAN               ,6.135      ,Kalindi College                         
+593   ,16035570045     ,MOHIT DAGAR               ,6.122      ,Keshav Mahavidyalaya                    
+594   ,16009570026     ,KULDEEP LODHI             ,6.108      ,Bhaskaracharya College of Applied Sciences
+595   ,16013570002     ,ADITI YADAV               ,6.108      ,College Of Vocational Studies           
+596   ,16025570066     ,NITIN KUMAR               ,6.095      ,Hans Raj College                        
+597   ,16033570041     ,SUMAN                     ,6.095      ,Kalindi College                         
+598   ,16078570030     ,MANSIMRAN SINGH           ,6.095      ,Sri Guru Gobind Singh College Of Commerce
+599   ,16078570009     ,DAMANPREET SINGH          ,6.068      ,Sri Guru Gobind Singh College Of Commerce
+600   ,16001570043     ,UJJWAL TIWARI             ,6.054      ,Acharya Narendra Dev College            
+601   ,16020570030     ,SACHIN SINGH              ,6.054      ,Ramanujan College                       
+602   ,16053570044     ,SAURABH                   ,6.054      ,P.G.D.A.V. College (Day)                
+603   ,16078570045     ,RUPINDER SINGH            ,6.054      ,Sri Guru Gobind Singh College Of Commerce
+604   ,16067570046     ,SANDEEP GAUTAM            ,6.041      ,Shaheed Sukhdev College of Business Studies
+605   ,16013570062     ,VISHU MALIK               ,6.027      ,College Of Vocational Studies           
+606   ,16066570017     ,PRAKRITI SHARMA           ,6.027      ,Shaheed Rajguru College of Applied Sciences for Women
+607   ,16035570031     ,HIMANSHU BALDODIA         ,6.014      ,Keshav Mahavidyalaya                    
+608   ,16053570006     ,ANKIT JOSHI               ,6.014      ,P.G.D.A.V. College (Day)                
+609   ,16025570058     ,AMADOU SARJO JALLOW       ,6.0        ,Hans Raj College                        
+610   ,16066570034     ,RASHIKA DINKAR            ,6.0        ,Shaheed Rajguru College of Applied Sciences for Women
+611   ,16035570056     ,PAWAN KUMAR               ,5.986      ,Keshav Mahavidyalaya                    
+612   ,16035570008     ,ANKIT KUMAR               ,5.973      ,Keshav Mahavidyalaya                    
+613   ,16020570012     ,KM SHIVANEE               ,5.959      ,Ramanujan College                       
+614   ,16053570040     ,RAVI KUMAR PAL            ,5.959      ,P.G.D.A.V. College (Day)                
+615   ,16003570032     ,LOVNEET SINGH             ,5.946      ,Atma Ram Sanatan Dharam College         
+616   ,16078570033     ,NAMAN JOLLY               ,5.946      ,Sri Guru Gobind Singh College Of Commerce
+617   ,16013570007     ,ARUN CHATURVEDI           ,5.905      ,College Of Vocational Studies           
+618   ,16025570048     ,RAJAT YADAV               ,5.905      ,Hans Raj College                        
+619   ,16020570024     ,PRAVEEN KUMAR CHAURASIA   ,5.878      ,Ramanujan College                       
+620   ,16053570004     ,ANIRUDH AHLAWAT           ,5.865      ,P.G.D.A.V. College (Day)                
+621   ,16013570004     ,AJIT KUMAR                ,5.851      ,College Of Vocational Studies           
+622   ,16053570025     ,LAKSHAY                   ,5.851      ,P.G.D.A.V. College (Day)                
+623   ,16029570004     ,ANTIMA RAJVANSHI          ,5.838      ,I.P.College For Women                   
+624   ,16020570027     ,RAHUL MEHTA               ,5.797      ,Ramanujan College                       
+625   ,16059570003     ,ASHUTOSH TIWARI           ,5.797      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+626   ,16015570057     ,VARSHA DAS                ,5.784      ,Deen Dayal Upadhyaya College            
+627   ,16053570034     ,PAWAN KUMAR               ,5.784      ,P.G.D.A.V. College (Day)                
+628   ,16067570009     ,AZHAD GHUFRAN             ,5.784      ,Shaheed Sukhdev College of Business Studies
+629   ,16053570035     ,PAWAN RAI                 ,5.77       ,P.G.D.A.V. College (Day)                
+630   ,16013570055     ,UDIT                      ,5.757      ,College Of Vocational Studies           
+631   ,16020570006     ,DHARMENDER KUMAR          ,5.743      ,Ramanujan College                       
+632   ,16025570006     ,SAURABH RAI               ,5.73       ,Hans Raj College                        
+633   ,16033570002     ,MANISHA                   ,5.716      ,Kalindi College                         
+634   ,16033570025     ,RUPAKSHI GAUTAM           ,5.716      ,Kalindi College                         
+635   ,16033570019     ,ANSHU YADAV               ,5.703      ,Kalindi College                         
+636   ,16053570026     ,MANAN MITTAL              ,5.703      ,P.G.D.A.V. College (Day)                
+637   ,16067570028     ,RAGHVENDRA VIKRAM         ,5.703      ,Shaheed Sukhdev College of Business Studies
+638   ,16033570010     ,RIYA                      ,5.689      ,Kalindi College                         
+639   ,16035570052     ,NIKHIL                    ,5.689      ,Keshav Mahavidyalaya                    
+640   ,16053570021     ,KM ARSALA KHAN            ,5.689      ,P.G.D.A.V. College (Day)                
+641   ,16075570066     ,SIMRAN                    ,5.689      ,Shyama Prasad Mukherji College for Women
+642   ,16001570044     ,VINEET KRISHNA SRIVASTAVA ,5.662      ,Acharya Narendra Dev College            
+643   ,16020570036     ,TARUN KUMAR               ,5.662      ,Ramanujan College                       
+644   ,16001570037     ,SHUBHAM KAUSHIK           ,5.649      ,Acharya Narendra Dev College            
+645   ,16015570060     ,VISHAL CHAUHAN            ,5.635      ,Deen Dayal Upadhyaya College            
+646   ,16075570058     ,SHALEEN SRIVASTAVA        ,5.608      ,Shyama Prasad Mukherji College for Women
+647   ,16015570016     ,GAURAV BALYAN             ,5.595      ,Deen Dayal Upadhyaya College            
+648   ,16020570039     ,VAIBHAV TIWARI            ,5.581      ,Ramanujan College                       
+649   ,16020570026     ,RAGHAVENDRA GUPTA         ,5.554      ,Ramanujan College                       
+650   ,16053570019     ,JATIN                     ,5.554      ,P.G.D.A.V. College (Day)                
+651   ,16013570006     ,AMITABH PRAJAPATI         ,5.527      ,College Of Vocational Studies           
+652   ,16033570027     ,TANIYA VERMA              ,5.527      ,Kalindi College                         
+653   ,16059570009     ,FARHAN SIDDIQUI           ,5.527      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+654   ,16025570028     ,ARUNIMA SHAMRA            ,5.5        ,Hans Raj College                        
+655   ,16059570040     ,PAVAN KUMAR               ,5.5        ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+656   ,16053570056     ,SACHIN MALIK              ,5.486      ,P.G.D.A.V. College (Day)                
+657   ,16075570007     ,ANKITA SINGH              ,5.486      ,Shyama Prasad Mukherji College for Women
+658   ,16053570051     ,VINSON MATHEW ISAAC       ,5.473      ,P.G.D.A.V. College (Day)                
+659   ,16078570039     ,PUNEET KUMAR ATTRI        ,5.473      ,Sri Guru Gobind Singh College Of Commerce
+660   ,16053570027     ,MANJEE PRASAD             ,5.459      ,P.G.D.A.V. College (Day)                
+661   ,16035570030     ,HIMANSH PANDEY            ,5.405      ,Keshav Mahavidyalaya                    
+662   ,16066570030     ,JAGRITI                   ,5.392      ,Shaheed Rajguru College of Applied Sciences for Women
+663   ,16075570019     ,DURGA SAINI               ,5.392      ,Shyama Prasad Mukherji College for Women
+664   ,16058570020     ,VIKRANT SINGH             ,5.365      ,Ram Lal Anand College (Day)             
+665   ,16013570043     ,ROHIT KUMAR               ,5.338      ,College Of Vocational Studies           
+666   ,16035570021     ,CHIRAG BANSAL             ,5.311      ,Keshav Mahavidyalaya                    
+667   ,16059570011     ,ANSHUMAN PAL              ,5.284      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+668   ,16025570024     ,AKASH TYAGI               ,5.27       ,Hans Raj College                        
+669   ,16020570038     ,UTKARSH KUMAR SINGH       ,5.257      ,Ramanujan College                       
+670   ,16067570027     ,PRASHANT KUMAR            ,5.257      ,Shaheed Sukhdev College of Business Studies
+671   ,16013570034     ,PRANJAL SUYAL             ,5.216      ,College Of Vocational Studies           
+672   ,16001570046     ,VISHAL KUMAR              ,5.203      ,Acharya Narendra Dev College            
+673   ,16003570033     ,RAHUL YADAV               ,5.203      ,Atma Ram Sanatan Dharam College         
+674   ,16003570039     ,ATUL KRISHNA              ,5.176      ,Atma Ram Sanatan Dharam College         
+675   ,16075570025     ,JYOTI KUMARI              ,5.176      ,Shyama Prasad Mukherji College for Women
+676   ,16078570049     ,SHARIF ZAMANI             ,5.176      ,Sri Guru Gobind Singh College Of Commerce
+677   ,16015570022     ,KSHITIZ GUPTA             ,5.149      ,Deen Dayal Upadhyaya College            
+678   ,16003570038     ,ANUJ YADAV                ,5.122      ,Atma Ram Sanatan Dharam College         
+679   ,16059570039     ,NAKUL SAHAI               ,5.108      ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)]
+680   ,16067570030     ,RATNESH RATNA             ,5.108      ,Shaheed Sukhdev College of Business Studies
+681   ,16013570005     ,AMBIKA PRASAD YADAV       ,5.095      ,College Of Vocational Studies           
+682   ,16001570045     ,VISHAL PUNDIR             ,5.054      ,Acharya Narendra Dev College            
+683   ,16013570049     ,SHUBHAM PANDEY            ,5.054      ,College Of Vocational Studies           
+684   ,16053570029     ,MOHD FARHAN               ,5.054      ,P.G.D.A.V. College (Day)                
+685   ,16053570038     ,PRATYAKSH VERMA           ,5.041      ,P.G.D.A.V. College (Day)                
+686   ,16013570011     ,DILSHAD ALI               ,5.027      ,College Of Vocational Studies           
+687   ,16013570044     ,SAHIL MANGAL              ,5.027      ,College Of Vocational Studies           
+688   ,16033570045     ,HEENA                     ,5.027      ,Kalindi College                         
+689   ,16033570014     ,PRAGATI TOMAR             ,5.014      ,Kalindi College                         
+690   ,16058570021     ,JIGYASA SINGH             ,5.014      ,Ram Lal Anand College (Day)             
+691   ,16015570013     ,CHETAN VERMA              ,4.973      ,Deen Dayal Upadhyaya College            
+692   ,16025570010     ,ISHANT LOYAL              ,4.932      ,Hans Raj College                        
+693   ,16025570056     ,MOSESBOU MARENMAI         ,4.892      ,Hans Raj College                        
+694   ,16015570006     ,ANKUSH                    ,4.878      ,Deen Dayal Upadhyaya College            
+695   ,16003570040     ,PARVESH YADAV             ,4.851      ,Atma Ram Sanatan Dharam College         
+696   ,16035570004     ,ADARSH SAKET              ,4.838      ,Keshav Mahavidyalaya                    
+697   ,16058570031     ,ARPIT CHAUDHARY           ,4.838      ,Ram Lal Anand College (Day)             
+698   ,16035570009     ,ANKIT SINGH               ,4.784      ,Keshav Mahavidyalaya                    
+699   ,16035570005     ,AHMAD MUSTAFA AKBAR       ,4.77       ,Keshav Mahavidyalaya                    
+700   ,16066570011     ,MANDVEE PANDEY            ,4.689      ,Shaheed Rajguru College of Applied Sciences for Women
+701   ,16020570042     ,VISHAL MAURYA             ,4.622      ,Ramanujan College                       
+702   ,16066570032     ,ABHILASHA GAUTAM          ,4.622      ,Shaheed Rajguru College of Applied Sciences for Women
+703   ,16025570065     ,SAURABH                   ,4.595      ,Hans Raj College                        
+704   ,16066570035     ,RIDHI SINGH               ,4.459      ,Shaheed Rajguru College of Applied Sciences for Women
+705   ,16001570001     ,KM AKANKSHA MAURYA        ,4.392      ,Acharya Narendra Dev College            
+706   ,16025570008     ,AKSHAY KUMAR              ,4.311      ,Hans Raj College                        
+707   ,16001570007     ,ARUN KUMAR                ,4.284      ,Acharya Narendra Dev College            
