@@ -1,0 +1,45 @@
+S.No  Roll No.        Name                      SGPA       College                                 
+1     17015570024     SARANSH BHATIA            9.57       Deen Dayal Upadhyaya College            
+2     17015570010     HIMANSHU                  9.14       Deen Dayal Upadhyaya College            
+3     17015570021     RISHABH JAIN              9.14       Deen Dayal Upadhyaya College            
+4     17015570048     VINEET KUMAR              8.93       Deen Dayal Upadhyaya College            
+5     17015570011     HIMANSHU MADAN            8.71       Deen Dayal Upadhyaya College            
+6     17015570016     NAVEEN KUMAR ROHILLA      8.71       Deen Dayal Upadhyaya College            
+7     17015570030     VIPIN KAUSHIK             8.71       Deen Dayal Upadhyaya College            
+8     17015570001     ALISHA WADHERA            8.57       Deen Dayal Upadhyaya College            
+9     17015570002     ANKIT                     8.57       Deen Dayal Upadhyaya College            
+10    17015570018     PARUL SEHRAWAT            8.57       Deen Dayal Upadhyaya College            
+11    17015570023     SALONI AJMERA             8.57       Deen Dayal Upadhyaya College            
+12    17015570028     SONAM KUMARI              8.57       Deen Dayal Upadhyaya College            
+13    17015570036     NIKHIL KUMAR              8.14       Deen Dayal Upadhyaya College            
+14    17015570026     SAURABH ANAND             8.0        Deen Dayal Upadhyaya College            
+15    17015570029     TARUN VERMA               7.93       Deen Dayal Upadhyaya College            
+16    17015570006     BHAVESH MEHTA             7.64       Deen Dayal Upadhyaya College            
+17    17015570007     BHAWNA SEHGAL             7.57       Deen Dayal Upadhyaya College            
+18    17015570017     NITESH KUMAR              7.5        Deen Dayal Upadhyaya College            
+19    17015570013     KUMARI KALYANI SINGH      7.43       Deen Dayal Upadhyaya College            
+20    17015570046     MANALI DATTA              7.43       Deen Dayal Upadhyaya College            
+21    17015570049     HARSHITA                  7.36       Deen Dayal Upadhyaya College            
+22    17015570027     SHOURYA DUBEY             7.21       Deen Dayal Upadhyaya College            
+23    17015570045     RICKY RAJAT KERKETTA      7.21       Deen Dayal Upadhyaya College            
+24    17015570003     ARUN RAJAK                7.14       Deen Dayal Upadhyaya College            
+25    17015570038     PRANJUL                   7.14       Deen Dayal Upadhyaya College            
+26    17015570020     RIDAM SAINI               7.0        Deen Dayal Upadhyaya College            
+27    17015570031     VISHNU PRIYA              7.0        Deen Dayal Upadhyaya College            
+28    17015570040     RASHI JAIN                7.0        Deen Dayal Upadhyaya College            
+29    17015570012     KIRAN RANA                6.86       Deen Dayal Upadhyaya College            
+30    17015570041     SACHIN KUMAR SINGH        6.79       Deen Dayal Upadhyaya College            
+31    17015570015     MUKUL OMER                6.71       Deen Dayal Upadhyaya College            
+32    17015570008     DEWANSH PRATAP SINGH      6.57       Deen Dayal Upadhyaya College            
+33    17015570014     MANISH CHAUHAN            6.5        Deen Dayal Upadhyaya College            
+34    17015570037     NISHANT YADAV             6.5        Deen Dayal Upadhyaya College            
+35    17015570042     TUSHAR GOEL               6.43       Deen Dayal Upadhyaya College            
+36    17015570025     SARIF                     6.36       Deen Dayal Upadhyaya College            
+37    17015570034     MANISH KUMAR              6.29       Deen Dayal Upadhyaya College            
+38    17015570009     DIVYANSH GUPTA            6.21       Deen Dayal Upadhyaya College            
+39    17015570043     YASH RUHELA               6.21       Deen Dayal Upadhyaya College            
+40    17015570047     SAKSHI SINGHAL            5.93       Deen Dayal Upadhyaya College            
+41    17015570035     NIGAM YADAV               5.57       Deen Dayal Upadhyaya College            
+42    17015570019     PRASHANT ARYA             5.5        Deen Dayal Upadhyaya College            
+43    17015570004     ASHISH RUHIL              5.14       Deen Dayal Upadhyaya College            
+44    17015570044     RAJAT                     3.86       Deen Dayal Upadhyaya College            

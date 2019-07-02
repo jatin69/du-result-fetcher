@@ -90,3 +90,5 @@ ENV/
 
 # mypy
 *.html
+
+images/
