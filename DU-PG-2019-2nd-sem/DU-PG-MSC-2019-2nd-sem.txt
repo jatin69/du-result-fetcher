@@ -1,0 +1,45 @@
+S.No  Roll No.        Name                      SGPA       College                                 
+1     1893930         TANYA SINGHAL             87.4       Department of Computer Science          
+2     1893907         MEGHA SUNDRIYAL           87.0       Department of Computer Science          
+3     1893901         EKTA WAHI                 86.8       Department of Computer Science          
+4     1893919         SAMYAK AHUJA              86.6       Department of Computer Science          
+5     1893897         AYUSH KUMAR SINGH         86.6       Department of Computer Science          
+6     1893929         TANYA DUA                 86.2       Department of Computer Science          
+7     1893916         RONAK AGGARWAL            84.6       Department of Computer Science          
+8     1893926         SWATI GAUTAM              84.0       Department of Computer Science          
+9     1893898         CHHAVI DUA                84.0       Department of Computer Science          
+10    1893895         ANURADHA AGGARWAL         83.6       Department of Computer Science          
+11    1893894         ANU                       82.0       Department of Computer Science          
+12    1893925         SUNIL KUMAR               81.4       Department of Computer Science          
+13    1893892         ABHISHEK SEN              81.2       Department of Computer Science          
+14    1893935         VINEET SINGH KARAKOTI     80.4       Department of Computer Science          
+15    1893917         RUCHI GOSWAMI             79.8       Department of Computer Science          
+16    1893912         PREETI                    79.6       Department of Computer Science          
+17    1893903         KRISHNA AGARWAL           79.0       Department of Computer Science          
+18    1893891         ABHINAV KUMAR             78.6       Department of Computer Science          
+19    1893914         RISHAV KOHLI              78.4       Department of Computer Science          
+20    1893924         SMRITI SHARMA             78.2       Department of Computer Science          
+21    1893928         TANUJ ROHILLA             77.4       Department of Computer Science          
+22    1893933         VAISHALI CHAWLA           77.4       Department of Computer Science          
+23    1893900         DIVESH BHAGAT             77.0       Department of Computer Science          
+24    1893896         ASHA SINGH                77.0       Department of Computer Science          
+25    1893909         MONIKA KANDARI            75.8       Department of Computer Science          
+26    1893934         VANSHIKA KUSHWAHA         75.6       Department of Computer Science          
+27    1893908         MONI TRIPATHI             75.2       Department of Computer Science          
+28    1893915         ROHIT KUMAR               75.2       Department of Computer Science          
+29    1893921         SAURABH YADAV             75.0       Department of Computer Science          
+30    1893906         MAYANK KHARBANDA          71.8       Department of Computer Science          
+31    1893922         SAURAV BHARTI             70.0       Department of Computer Science          
+32    1893918         RUMAN SALEEM              68.4       Department of Computer Science          
+33    1893911         NITIN THAKUR              65.8       Department of Computer Science          
+34    1893931         UDITI KANSAL              65.8       Department of Computer Science          
+35    1893910         NAVEEN KUMAR              64.6       Department of Computer Science          
+36    1893932         UPDESH YADAV              63.2       Department of Computer Science          
+37    1893893         ANJU KUMARI GAUR          63.2       Department of Computer Science          
+38    1893920         SANGEETA KUMARI           62.2       Department of Computer Science          
+39    1893904         KULPREET KOUR             61.0       Department of Computer Science          
+40    1893899         DEEPA                     57.2       Department of Computer Science          
+41    1893923         SAURAV MEENA              56.0       Department of Computer Science          
+42    1893905         LISATHUNG PATTON          55.2       Department of Computer Science          
+43    1893927         TAMANNA                   52.4       Department of Computer Science          
+44    1893913         RADHNANDANI PRASAD        25.6       Department of Computer Science          

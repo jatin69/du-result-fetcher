@@ -1,0 +1,45 @@
+S.No  ,Roll No.        ,Name                      ,SGPA       ,College                                 
+1     ,1894135         ,VIPUL KUMAR               ,98.2       ,Department of Computer Science          
+2     ,1894096         ,ANISHA KATHURIA           ,93.0       ,Department of Computer Science          
+3     ,1894103         ,DISHA SURANA              ,91.6       ,Department of Computer Science          
+4     ,1894111         ,MEGHA BISHT               ,91.2       ,Department of Computer Science          
+5     ,1894126         ,SHRUTI KATYAL             ,91.0       ,Department of Computer Science          
+6     ,1894097         ,ANSHULA SACHDEVA          ,90.2       ,Department of Computer Science          
+7     ,1894116         ,PRIYANKA                  ,88.2       ,Department of Computer Science          
+8     ,1894106         ,HEMANT SAINI              ,87.4       ,Department of Computer Science          
+9     ,1894114         ,PRADEEP KUMAR             ,86.8       ,Department of Computer Science          
+10    ,1894093         ,ADITYA AGGARWAL           ,86.6       ,Department of Computer Science          
+11    ,1894131         ,SUNIDHI SHARMA            ,86.4       ,Department of Computer Science          
+12    ,1894128         ,SONALI GOYAL              ,84.8       ,Department of Computer Science          
+13    ,1894122         ,SANYAM JAIN               ,83.6       ,Department of Computer Science          
+14    ,1894121         ,SAHIL NISHAL              ,83.2       ,Department of Computer Science          
+15    ,1894105         ,HARSHIT KESAR             ,83.0       ,Department of Computer Science          
+16    ,1894120         ,RITIKA NAINWAL            ,83.0       ,Department of Computer Science          
+17    ,1894124         ,SAURABH PURI              ,81.8       ,Department of Computer Science          
+18    ,1894115         ,PRANAV GURDITTA           ,81.4       ,Department of Computer Science          
+19    ,1894092         ,ADITYA                    ,81.0       ,Department of Computer Science          
+20    ,1894104         ,GAURAV SINGH              ,80.0       ,Department of Computer Science          
+21    ,1894113         ,NITIN KUMAR               ,79.0       ,Department of Computer Science          
+22    ,1894112         ,NAVYA ASHISH              ,78.8       ,Department of Computer Science          
+23    ,1894091         ,ABHISHEK KANSAL           ,75.4       ,Department of Computer Science          
+24    ,1894109         ,MANISH GAUTAM             ,75.2       ,Department of Computer Science          
+25    ,1894107         ,JATIN KUMAR               ,73.8       ,Department of Computer Science          
+26    ,1894119         ,RIDHI ARORA               ,73.8       ,Department of Computer Science          
+27    ,1894127         ,SHUBHANGI GHOSH           ,73.8       ,Department of Computer Science          
+28    ,1894132         ,TANISHA GROVER            ,69.4       ,Department of Computer Science          
+29    ,1894134         ,VIKASH                    ,66.4       ,Department of Computer Science          
+30    ,1894101         ,DEEPAK KUMAR              ,66.2       ,Department of Computer Science          
+31    ,1894118         ,RAKESH KHARI              ,64.4       ,Department of Computer Science          
+32    ,1894095         ,AANCHAL PATIAL            ,64.2       ,Department of Computer Science          
+33    ,1894108         ,MANAN MEHTA               ,63.8       ,Department of Computer Science          
+34    ,1894117         ,RAHUL MURMU               ,62.2       ,Department of Computer Science          
+35    ,1894123         ,SATYAM SHIVANKUR          ,58.4       ,Department of Computer Science          
+36    ,1894130         ,SUMIT KUMAR               ,58.2       ,Department of Computer Science          
+37    ,1894094         ,ADITYA AGRAWAL            ,53.6       ,Department of Computer Science          
+38    ,1894102         ,DEEPESH SANWAL            ,51.6       ,Department of Computer Science          
+39    ,1894099         ,CHELLO YANA               ,49.0       ,Department of Computer Science          
+40    ,1894129         ,SONAM SINGH               ,46.4       ,Department of Computer Science          
+41    ,1894125         ,SHRISHTI KANOJIA          ,44.8       ,Department of Computer Science          
+42    ,1894110         ,MD. RAFIQUL ISLAM         ,43.8       ,Department of Computer Science          
+43    ,1894098         ,AVIJIT BHOWMIK            ,43.4       ,Department of Computer Science          
+44    ,1894133         ,TANYA KANOJIA             ,35.8       ,Department of Computer Science          
