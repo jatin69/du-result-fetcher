@@ -1,0 +1,47 @@
+S.No  Roll No.        Name                      aggregate  College                                 
+1     1724527         PRIYANKA SUKHALANI        93.05      Department of Computer Science          
+2     1724537         SUSHMITA YADAV            88.5       Department of Computer Science          
+3     1724546         YASHVI VERMA              84.65      Department of Computer Science          
+4     1724518         MANISHA PARUTHI           83.25      Department of Computer Science          
+5     1724520         MOHD SHOAIB RAYEEN        83.25      Department of Computer Science          
+6     1724501         ABHISHEK BHARDWAJ         81.9       Department of Computer Science          
+7     1724521         MOHIT ARORA               81.9       Department of Computer Science          
+8     1724526         PRAGYA RASTOGI            80.55      Department of Computer Science          
+9     1724507         AVINASH PRASAD            80.25      Department of Computer Science          
+10    1724536         SMRITY CHAUDHARY          79.0       Department of Computer Science          
+11    1724543         VIPIN KUMAR               78.65      Department of Computer Science          
+12    1724510         DIKSHA VERMA              78.25      Department of Computer Science          
+13    1724514         JATIN ROHILLA             77.4       Department of Computer Science          
+14    1724511         DIVYA AGARWAL             76.0       Department of Computer Science          
+15    1724544         VISHAD UPMANYU            75.65      Department of Computer Science          
+16    1724535         SHWETA GOEL               75.55      Department of Computer Science          
+17    1724519         MEGHNA AGARWAL            74.3       Department of Computer Science          
+18    1724504         ANJALI BANSAL             74.15      Department of Computer Science          
+19    1724528         RAHUL DEWAN               69.95      Department of Computer Science          
+20    1724513         HARSHUL KUMAR             69.25      Department of Computer Science          
+21    1724547         YOGESH BHAKHAR            66.75      Department of Computer Science          
+22    1724541         VIDUL KUMAR               66.45      Department of Computer Science          
+23    1724532         SEEMA KUMARI PATEL        64.75      Department of Computer Science          
+24    1724538         SWAPNIL                   63.9       Department of Computer Science          
+25    1724509         DEEPAK YADAV              63.8       Department of Computer Science          
+26    1724505         ARSHAD ANSARI             63.3       Department of Computer Science          
+27    1724533         SHEENAM YADAV             62.95      Department of Computer Science          
+28    1724542         VIKAS GOSWAMI             62.5       Department of Computer Science          
+29    1724530         ROHIT NAYAK               61.4       Department of Computer Science          
+30    1724512         HARSHIT HALWAN            61.2       Department of Computer Science          
+31    1724539         TUSHAR                    59.25      Department of Computer Science          
+32    1724502         AJAY KUMAR                57.95      Department of Computer Science          
+33    1724517         KALPANA YADAV             57.9       Department of Computer Science          
+34    1724525         PRADEEP KUMAR             57.85      Department of Computer Science          
+35    1724531         SAURABH BHANDARI          56.25      Department of Computer Science          
+36    1724529         RISHAB BATRA              54.9       Department of Computer Science          
+37    1724523         NIKHIL BISHT              54.4       Department of Computer Science          
+38    1724540         VASHUDEV                  54.25      Department of Computer Science          
+39    1724506         ASHISH SONI               53.5       Department of Computer Science          
+40    1724515         JAYANT DHAWAN             52.2       Department of Computer Science          
+41    1724524         NIKITA                    51.7       Department of Computer Science          
+42    1724534         SHEETAL KUMAR             51.4       Department of Computer Science          
+43    1724503         AKASH KULSHRESHTHA        49.8       Department of Computer Science          
+44    1724508         CHIRAG BOHET              47.3       Department of Computer Science          
+45    1724522         NAROLA D DHAR             43.4       Department of Computer Science          
+46    1724516         KACHUIPAM RUNGSUNG        41.0       Department of Computer Science          
