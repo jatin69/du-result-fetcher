@@ -1,0 +1,182 @@
+BODY {
+	MARGIN: 0px
+	/*background-image : url(../Images/bg3.jpg);*/
+	/*background : Images/gray_1.jpg;*/
+}
+TD {
+	FONT-SIZE: 12px; 
+	COLOR: #000000; 
+	FONT-FAMILY: Verdana, Arial;
+    margin-left: 480px;
+}
+.mainTable {
+	BORDER-RIGHT: #000000 1px solid; 
+	BORDER-TOP: #000000 1px solid; 
+	BORDER-LEFT: #000000 1px solid; 
+	BORDER-BOTTOM: #000000 1px solid; 
+	BACKGROUND-COLOR: #ffffff
+}
+A {
+	COLOR: blue; 
+	TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff6600; 
+	TEXT-DECORATION: none
+}
+.txt {
+	FONT-SIZE: 10px; 
+	COLOR: #000000; 
+	FONT-FAMILY: Verdana, Arial
+}
+.tab A {
+	DISPLAY: block; 
+	FONT-SIZE: 11px; 
+	VERTICAL-ALIGN: top; 
+	WIDTH: 150px; 
+	COLOR: #ffffff; 
+	PADDING-TOP: 2px; 
+	FONT-FAMILY: Verdana, Arial; 
+	HEIGHT: 18px; 
+	BACKGROUND-COLOR: #0a4483; 
+	TEXT-ALIGN: center; 
+	TEXT-DECORATION: none
+}
+.tab A:hover {
+	DISPLAY: block; 
+	COLOR: #ffffff; 
+	BACKGROUND-COLOR: #585757; 
+	TEXT-DECORATION: none
+}
+.copyright {
+	BORDER-TOP: #0a4483 1px solid; 
+	FONT-SIZE: 10px; 
+	VERTICAL-ALIGN: top; 
+	COLOR: #4f4e4e; PADDING-TOP: 5px; 
+	FONT-FAMILY: Verdana, Arial; 
+	HEIGHT: 30px
+}
+.welcome {
+	COLOR: #0a4483
+}
+.header1 {
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 12px; 
+	TEXT-TRANSFORM: uppercase; 
+	COLOR: #ffffff; 
+	FONT-FAMILY: Verdana, Arial; 
+	BACKGROUND-COLOR: #c5c5c5
+}
+
+.gridStyle {
+	PADDING-RIGHT: 2px; 
+	PADDING-LEFT: 2px; 
+	FONT-SIZE: 11px; 
+	BORDER-LEFT-COLOR: #585757; 
+	BORDER-BOTTOM-COLOR: #585757; 
+	PADDING-BOTTOM: 1px; 
+	WIDTH: 100%; 
+	COLOR: #000000; 
+	BORDER-TOP-COLOR: #585757; 
+	PADDING-TOP: 1px; 
+	FONT-FAMILY: Verdana, Arial; 
+	BORDER-COLLAPSE: collapse; 
+	BORDER-RIGHT-COLOR: #585757
+}
+.gridHeader TD {
+	FONT-WEIGHT: bold; 
+	COLOR: #ffffff; 
+	BACKGROUND-COLOR: gray
+}
+.gridRow TD {
+	BACKGROUND-COLOR: #ffffff
+}
+.gridAltRow TD {
+	BACKGROUND-COLOR: #e7e7e7
+}
+.gridFooter TD {
+	FONT-WEIGHT: normal; 
+	BACKGROUND-COLOR: #9c9c9c
+}
+.gridSelected TD {
+	COLOR: #990000; 
+	BACKGROUND-COLOR: #cfce95
+}
+
+/* Gentated by me*/
+.headings{
+	
+	font-family:Verdana, Arial;
+	font-size:22px;
+	FONT-WEIGHT: bold; 
+	color:Maroon;
+		
+}
+.lbl{
+	
+	font-family:Verdana, Arial;
+	font-size:15px;
+	color:#000000; 
+    font-weight: 700;
+}
+.lblmsg{
+	
+	font-family:Verdana, Arial;
+	font-size:15px;
+	color:Blue;
+    font-weight: 700;
+}
+
+.lblsmall{
+	
+	font-family:Verdana, Arial;
+	font-size:"11";
+	color:Maroon;
+    text-align: justify;
+}
+.lblmedium{
+	
+	font-family:Verdana, Arial;
+	font-size:12px;
+	color:Maroon;
+		
+}
+.txtbox {
+	border: 1px solid #1F6367;
+    FONT-SIZE: 14px; 
+	    FONT-WEIGHT: bold;
+	    COLOR: Maroon; 
+	    FONT-FAMILY: Verdana, Arial;
+    }
+.button {
+	BORDER-RIGHT: #022d5c 2px solid; 
+	BORDER-TOP: #3472b4 1px solid; 
+	FONT-SIZE: 11px; 
+	FONT-WEIGHT: bold; 
+	BORDER-LEFT: #3472b4 1px solid; 
+	CURSOR: auto; COLOR: #ffffff; 
+	BORDER-BOTTOM: #022d5c 2px solid; 
+	FONT-FAMILY: Verdana, Arial; 
+	BACKGROUND-COLOR: #1F6367;
+    height: 20px;
+}
+.button1 {
+	BORDER-RIGHT: #585757 2px solid; 
+	BORDER-TOP: #727171 1px solid; 
+	FONT-SIZE: 11px; 
+	BORDER-LEFT: #727171 1px solid; 
+	COLOR: #000000; 
+	BORDER-BOTTOM: #585757 2px solid; 
+	FONT-FAMILY: Verdana, Arial; 
+	BACKGROUND-COLOR: #F7D198;
+    }
+.ddl {
+	BORDER-RIGHT: #1F6367 1px solid; 
+	BORDER-TOP: #1F6367 1px solid; 
+	FONT-SIZE: 11px; 
+	BORDER-LEFT: #1F6367 1px solid; 
+	COLOR: Maroon ; 
+	BORDER-BOTTOM: #1F6367 1px solid; 
+	FONT-FAMILY: Verdana, Arial;
+	WIDTH: 150;
+}

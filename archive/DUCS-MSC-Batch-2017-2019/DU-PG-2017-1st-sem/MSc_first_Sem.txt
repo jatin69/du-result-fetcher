@@ -1,0 +1,48 @@
+S.No  Roll No.        Name                      Marks Percentage
+    1 1723914         KUNDAN KUMAR              107.0       21.4
+    2 1723926         RANA IBRAHIMI             178.0       35.6
+    3 1723923         PUNCHOK NAMGIAL           198.0       39.6
+    4 1723942         SWAPNIL GUPTA             209.0       41.8
+    5 1723921         NILOY BISWAS              216.0       43.2
+    6 1723944         THONGMINLIEN KUKI         229.0       45.8
+    7 1723915         LIMA EMAL                 233.0       46.6
+    8 1723929         SAKSHI MEENA              251.0       50.2
+    9 1723917         MOHAMMAD ADIB             270.0       54.0
+   10 1723940         SURBHI CHAURASIA          270.0       54.0
+   11 1723933         SHIVANI                   291.0       58.2
+   12 1723912         KHUSHBOO MITTAL           292.0       58.4
+   13 1723903         AKANSHA GAUTAM            302.0       60.4
+   14 1723936         SHRESHTH SAXENA           310.0       62.0
+   15 1723943         TARUN GARG                325.0       65.0
+   16 1723927         ROHIT VERMA               326.0       65.2
+   17 1723928         SHAKEENA SHAHID           333.0       66.6
+   18 1723931         SANDHYA                   333.0       66.6
+   19 1723937         SUBODH KUMAR              334.0       66.8
+   20 1723946         VINEETA GOSWAMI           339.0       67.8
+   21 1723924         PUSHKAR GOLE              346.0       69.2
+   22 1723939         SURAJIT DAS               346.0       69.2
+   23 1723913         KRISHNA                   351.0       70.2
+   24 1723918         MOHAMMAD SAYEED           352.0       70.4
+   25 1723904         ANCHAL MITTAL             355.0       71.0
+   26 1723919         MOHIT KANDPAL             355.0       71.0
+   27 1723934         SHIVANI TIWARY            357.0       71.4
+   28 1723941         SURBHI MITTAL             365.0       73.0
+   29 1723947         YOGESH KUMAR              369.0       73.8
+   30 1723911         JAIDEEP SAGAR             370.0       74.0
+   31 1723916         MAYANK GANGWAR            380.0       76.0
+   32 1723930         SANCHI CHAWLA             382.0       76.4
+   33 1723938         SULEKHA                   382.0       76.4
+   34 1723902         ABHISHEK GUPTA            384.0       76.8
+   35 1723910         EVA CHAUDHARY             385.0       77.0
+   36 1723945         UTTEYA PRASAD PAL         386.0       77.2
+   37 1723906         ATUL MITTAL               392.0       78.4
+   38 1723922         NOORUL HASAN              395.0       79.0
+   39 1723935         SHIVANI                   407.0       81.4
+   40 1723925         RAJNI                     410.0       82.0
+   41 1723909         DEEPTI SHARMA             415.0       83.0
+   42 1723920         NEHAL PANDEY              419.0       83.8
+   43 1723901         ABHILASHA GUPTA           424.0       84.8
+   44 1723905         ASHITA DIWAN              430.0       86.0
+   45 1723932         SHIVAM AGARWAL            438.0       87.6
+   46 1723907         AYUSH MALIK               454.0       90.8
+   47 1723908         BHOOMIKA PANWAR           454.0       90.8
