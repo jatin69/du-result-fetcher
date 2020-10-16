@@ -1,0 +1,42 @@
+S.No  ,Roll No.        ,Name                      ,Sem-VI     ,College                                 
+1     ,1724504         ,ANJALI BANSAL             ,460        ,Department of Computer Science          
+2     ,1724507         ,AVINASH PRASAD            ,460        ,Department of Computer Science          
+3     ,1724515         ,JAYANT DHAWAN             ,460        ,Department of Computer Science          
+4     ,1724520         ,MOHD SHOAIB RAYEEN        ,460        ,Department of Computer Science          
+5     ,1724526         ,PRAGYA RASTOGI            ,460        ,Department of Computer Science          
+6     ,1724528         ,RAHUL DEWAN               ,460        ,Department of Computer Science          
+7     ,1724542         ,VIKAS GOSWAMI             ,460        ,Department of Computer Science          
+8     ,1724547         ,YOGESH BHAKHAR            ,460        ,Department of Computer Science          
+9     ,1724511         ,DIVYA AGARWAL             ,455        ,Department of Computer Science          
+10    ,1724521         ,MOHIT ARORA               ,452        ,Department of Computer Science          
+11    ,1724518         ,MANISHA PARUTHI           ,451        ,Department of Computer Science          
+12    ,1724538         ,SWAPNIL                   ,451        ,Department of Computer Science          
+13    ,1724501         ,ABHISHEK BHARDWAJ         ,450        ,Department of Computer Science          
+14    ,1724505         ,ARSHAD ANSARI             ,450        ,Department of Computer Science          
+15    ,1724508         ,CHIRAG BOHET              ,450        ,Department of Computer Science          
+16    ,1724519         ,MEGHNA AGARWAL            ,450        ,Department of Computer Science          
+17    ,1724527         ,PRIYANKA SUKHALANI        ,450        ,Department of Computer Science          
+18    ,1724534         ,SHEETAL KUMAR             ,450        ,Department of Computer Science          
+19    ,1724535         ,SHWETA GOEL               ,450        ,Department of Computer Science          
+20    ,1724536         ,SMRITY CHAUDHARY          ,450        ,Department of Computer Science          
+21    ,1724539         ,TUSHAR                    ,450        ,Department of Computer Science          
+22    ,1724540         ,VASHUDEV                  ,450        ,Department of Computer Science          
+23    ,1724541         ,VIDUL KUMAR               ,450        ,Department of Computer Science          
+24    ,1724537         ,SUSHMITA YADAV            ,441        ,Department of Computer Science          
+25    ,1724544         ,VISHAD UPMANYU            ,441        ,Department of Computer Science          
+26    ,1724506         ,ASHISH SONI               ,440        ,Department of Computer Science          
+27    ,1724512         ,HARSHIT HALWAN            ,440        ,Department of Computer Science          
+28    ,1724514         ,JATIN ROHILLA             ,440        ,Department of Computer Science          
+29    ,1724524         ,NIKITA                    ,440        ,Department of Computer Science          
+30    ,1724533         ,SHEENAM YADAV             ,434        ,Department of Computer Science          
+31    ,1724513         ,HARSHUL KUMAR             ,430        ,Department of Computer Science          
+32    ,1724530         ,ROHIT NAYAK               ,430        ,Department of Computer Science          
+33    ,1724546         ,YASHVI VERMA              ,430        ,Department of Computer Science          
+34    ,1724523         ,NIKHIL BISHT              ,427        ,Department of Computer Science          
+35    ,1724525         ,PRADEEP KUMAR             ,412        ,Department of Computer Science          
+36    ,1724531         ,SAURABH BHANDARI          ,411        ,Department of Computer Science          
+37    ,1724502         ,AJAY KUMAR                ,406        ,Department of Computer Science          
+38    ,1724532         ,SEEMA KUMARI PATEL        ,401        ,Department of Computer Science          
+39    ,1724510         ,DIKSHA VERMA              ,400        ,Department of Computer Science          
+40    ,1724517         ,KALPANA YADAV             ,0          ,Department of Computer Science          
+41    ,1724543         ,VIPIN KUMAR               ,0          ,Department of Computer Science          
