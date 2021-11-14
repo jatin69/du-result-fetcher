@@ -1,5 +1,10 @@
 import requests
-
+from bs4 import BeautifulSoup
+import re
+import sys
+import os
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 url = "https://resultsarchives.nic.in/cbseresults/cbseresults2015/class12/cbse122015_all.asp"
 
 headers = {
@@ -19,17 +24,73 @@ headers = {
   'TE': 'trailers'
 }
 
-# payload='regno=2605413&B1=Submit'
 
+allRolls = []
+subjectToFind = 'COMPUTER SCIENCE'
 
-
-allRolls = [2605413]
-
+completeList = []
 
 for roll in allRolls:
     payload = { 'regno' : roll, 'B1' : 'Submit'}
-    response = requests.post(url, data=payload, headers=headers, verify=False)
-    print(response.text)
-    filename = "saved/" + str(roll) + '.txt'
-    with open(filename,'w') as f:
-        print(response.text, file=f)
+    r = requests.post(url, data=payload, headers=headers, verify=False)
+    soup = BeautifulSoup(r.text, 'html.parser')
+
+
+    name_table = soup.findAll("table", {"width":"75%"})[1]
+    rows = name_table.findAll("tr")
+    
+
+    name = rows[1].findAll("font")[2].text.strip()
+    rollNo = int(rows[0].findAll("font")[1].text.strip())
+    # print(str(rollNo) + "\n")
+
+    result_table = soup.find("table", {"bordercolor":"#000000"})
+    # print(result_table)
+    subRow = None
+    subjectFound = False
+    totalMarks = 0
+
+    for row in result_table.findAll("tr")[1:6]:
+        allFonts = row.findAll("font")
+        # print(allFonts)
+        for font in allFonts:
+            if font.text == subjectToFind:
+                subRow = row
+                subjectFound = True
+    
+        try:
+            sub = allFonts[1].text.strip()
+            marksInSub = int(allFonts[4].text.strip())
+            # print(marksInSub)
+            totalMarks += marksInSub     
+        except IndexError:
+            # print(rollNo)
+            continue
+        except ValueError:
+            print(rollNo)
+            exit
+        
+    if(subjectFound is False):
+        continue
+
+    # only valid subjects proceed
+    marksInSub = int(subRow.findAll("font")[4].text.strip())
+    # print(marksInSub)
+    overAllPercentage = float(totalMarks/5.0)
+
+    completeList.append([rollNo, name, overAllPercentage, marksInSub])
+
+    FILENAME = "saved/" + str(roll) + '.txt'
+    with open(FILENAME,'w') as f:
+        print(r.text, file=f)
+
+
+
+completeList.sort(key = lambda x : x[0], reverse=True)
+# print(completeList)
+
+with open('CBSE-2015.txt','w') as f:
+    print('{0:<5} ,{1:<15} ,{2:25} ,{3:<15} ,{4:<15}'.format("S.No","Roll No.","Name","Percentage","Marks in CS"), file=f)
+    for i,marks in enumerate(completeList):
+        print('{0:<5} ,{1:<15} ,{2:25} ,{3:<15} ,{4:<15}'.format(i+1,marks[0],marks[1],marks[2], marks[3]), file=f)
+
