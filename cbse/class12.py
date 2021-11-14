@@ -27,8 +27,9 @@ headers = {
 
 allRolls = []
 subjectToFind = 'COMPUTER SCIENCE'
-
 completeList = []
+
+allNames = []
 
 for roll in allRolls:
     payload = { 'regno' : roll, 'B1' : 'Submit'}
@@ -38,10 +39,10 @@ for roll in allRolls:
 
     name_table = soup.findAll("table", {"width":"75%"})[1]
     rows = name_table.findAll("tr")
-    
 
     name = rows[1].findAll("font")[2].text.strip()
     rollNo = int(rows[0].findAll("font")[1].text.strip())
+    allNames.append([rollNo, name])
     # print(str(rollNo) + "\n")
 
     result_table = soup.find("table", {"bordercolor":"#000000"})
@@ -67,30 +68,48 @@ for roll in allRolls:
             # print(rollNo)
             continue
         except ValueError:
-            print(rollNo)
-            exit
+            # print("failure = " + str(rollNo))
+            continue
         
     if(subjectFound is False):
         continue
 
-    # only valid subjects proceed
-    marksInSub = int(subRow.findAll("font")[4].text.strip())
-    # print(marksInSub)
-    overAllPercentage = float(totalMarks/5.0)
+    marksInSub = None
+    overAllPercentage = None
+    try:
+        # only valid subjects proceed
+        marksInSub = int(subRow.findAll("font")[4].text.strip())
+        # print(marksInSub)
+        overAllPercentage = float(totalMarks/5.0)
+    except IndexError:
+        # print(rollNo)
+        continue
+    except ValueError:
+        # print("failure = " + str(rollNo))
+        continue
+        
+    x = [rollNo, name, overAllPercentage, marksInSub]
+    print(x)
+    completeList.append(x)
 
-    completeList.append([rollNo, name, overAllPercentage, marksInSub])
-
-    FILENAME = "saved/" + str(roll) + '.txt'
-    with open(FILENAME,'w') as f:
-        print(r.text, file=f)
+    # FILENAME = "saved/" + str(roll) + '.txt'
+    # with open(FILENAME,'w') as f:
+    #     print(r.text, file=f)
 
 
 
-completeList.sort(key = lambda x : x[0], reverse=True)
+# completeList.sort(key = lambda x : x[0], reverse=True)
+completeList.sort(key = lambda x : x[0])
+allNames.sort(key = lambda x : x[0])
 # print(completeList)
 
 with open('CBSE-2015.txt','w') as f:
     print('{0:<5} ,{1:<15} ,{2:25} ,{3:<15} ,{4:<15}'.format("S.No","Roll No.","Name","Percentage","Marks in CS"), file=f)
     for i,marks in enumerate(completeList):
         print('{0:<5} ,{1:<15} ,{2:25} ,{3:<15} ,{4:<15}'.format(i+1,marks[0],marks[1],marks[2], marks[3]), file=f)
+
+with open('names-2015.txt','w') as f:
+    print('{0:<5} ,{1:<15} ,{2:25}'.format("S.No","Roll No.","Name"), file=f)
+    for i,marks in enumerate(allNames):
+        print('{0:<5} ,{1:<15} ,{2:25}'.format(i+1,marks[0],marks[1]), file=f)
 
