@@ -5,7 +5,12 @@ import sys
 import os
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+# 2015 result
 url = "https://resultsarchives.nic.in/cbseresults/cbseresults2015/class12/cbse122015_all.asp"
+
+# 2014 result
+url = "https://resultsarchives.nic.in/cbseresults/cbseresults2014/class12/cbse122014_all.asp"
 
 headers = {
   'Host': 'resultsarchives.nic.in',
@@ -26,16 +31,25 @@ headers = {
 
 
 allRolls = []
+
+# one school only
+# for i in range(2605312,2605612 + 1):
+#     allRolls.append(i)
+
+# one student only
+allRolls = [2605412]
+
 subjectToFind = 'COMPUTER SCIENCE'
 completeList = []
 
 allNames = []
 
 for roll in allRolls:
-    payload = { 'regno' : roll, 'B1' : 'Submit'}
+    payload = { 'regno' : str(roll), 'B1' : 'Submit'}
     r = requests.post(url, data=payload, headers=headers, verify=False)
     soup = BeautifulSoup(r.text, 'html.parser')
 
+    # print(soup)
 
     name_table = soup.findAll("table", {"width":"75%"})[1]
     rows = name_table.findAll("tr")
@@ -92,10 +106,10 @@ for roll in allRolls:
     print(x)
     completeList.append(x)
 
-    # FILENAME = "saved/" + str(roll) + '.txt'
+    # save entire result html files
+    # FILENAME = "saved/" + str(roll) + '.html'
     # with open(FILENAME,'w') as f:
     #     print(r.text, file=f)
-
 
 
 # completeList.sort(key = lambda x : x[0], reverse=True)
@@ -103,12 +117,12 @@ completeList.sort(key = lambda x : x[0])
 allNames.sort(key = lambda x : x[0])
 # print(completeList)
 
-with open('CBSE-2015.txt','w') as f:
+with open('CBSE-2014.txt','w') as f:
     print('{0:<5} ,{1:<15} ,{2:25} ,{3:<15} ,{4:<15}'.format("S.No","Roll No.","Name","Percentage","Marks in CS"), file=f)
     for i,marks in enumerate(completeList):
         print('{0:<5} ,{1:<15} ,{2:25} ,{3:<15} ,{4:<15}'.format(i+1,marks[0],marks[1],marks[2], marks[3]), file=f)
 
-with open('names-2015.txt','w') as f:
+with open('names-2014.txt','w') as f:
     print('{0:<5} ,{1:<15} ,{2:25}'.format("S.No","Roll No.","Name"), file=f)
     for i,marks in enumerate(allNames):
         print('{0:<5} ,{1:<15} ,{2:25}'.format(i+1,marks[0],marks[1]), file=f)
